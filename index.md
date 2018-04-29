@@ -15,10 +15,10 @@ layout: home
     <h2 class="intro-subtitle">Super super project</h2>
 
     <nav class="intro-actions">
-      <a href="/consumer-research/" class="button button-ghost" role="button">Consumer</a>
-      <a href="/industry-research/" class="button button-ghost" role="button">Industry</a>
-      <a href="/ideation/" class="button button-ghost" role="button">Ideation</a>
-      <a href="/solution/" class="button button-ghost" role="button">Solution</a>
+      <a href="/idbm-packaging/consumer-research/" class="button button-ghost" role="button">Consumer</a>
+      <a href="/idbm-packaging/industry-research/" class="button button-ghost" role="button">Industry</a>
+      <a href="/idbm-packaging/ideation/" class="button button-ghost" role="button">Ideation</a>
+      <a href="/idbm-packaging/solution/" class="button button-ghost" role="button">Solution</a>
     </nav>
 
   </div>
