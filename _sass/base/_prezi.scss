@@ -1,0 +1,65 @@
+.block {
+  background: $tiffany-color;
+  border-radius: 50px;
+  padding: 25px;
+  text-align: center;
+  display: inline-block;
+  width: 31%;
+  margin: 10px 1%;
+
+  &__title {
+    font-size: 100px;
+    color: white;
+    margin: 0;
+  }
+
+  &__text {
+    font-size: 25px;
+    color: white;
+    margin: 10px;
+  }
+
+  &__sign {
+    font-size: 18px;
+    font-weight: bold;
+    margin: 0;
+  }
+
+  &--white {
+    background: white;
+    border: $light-gray-color 1px solid;
+  }
+  &--white {
+    .block__text {
+      color: $black-color;
+    }
+  }
+
+}
+
+.map {
+  margin: 25px 0;
+}
+
+
+.cloud {
+    display: inline-block;
+    list-style-type: none;
+    width: 400px;
+  width: 50%;
+  margin: 0 25%;
+  text-align: center;
+}
+.cloud li {
+    list-style: none;
+    display: inline;
+}
+.cloud li:nth-of-type(3n + 1) {
+    font-size: 40px;
+}
+.cloud li:nth-of-type(4n+3) {
+    font-size: 50px;
+}
+.cloud li:nth-of-type(5n - 3) {
+    font-size: 25px;
+}
