@@ -10,7 +10,7 @@ Text, photo and video about consumer research.
 
 How to insert photo:
 
-![](/assets/pictures/kitten.jpg)
+![](/idbm-packaging/assets/pictures/kitten.jpg)
 
 How to insert video:
 
