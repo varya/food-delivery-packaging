@@ -8,6 +8,17 @@ body.home-intro {
   }
 }
 
+.home {
+  .intro {
+    background-color: $white-color;
+    color: $black-color;
+  }
+}
+.home-page {
+  background: $primary-color;
+  color: $white-color;
+}
+
 .intro {
   vertical-align: middle;
   position: relative;
@@ -25,14 +36,14 @@ body.home-intro {
   display: inline-block;
   max-width: $desktop-width;
   margin: auto;
-  padding: 4em 2em;
+  padding: 0;
 
   @include media($min-tablet) {
-    padding: 6em 0;
+    padding: 5em 0;
   }
 
   @include media($min-tablet-large) {
-    padding: 9em 0;
+    padding: 7em 0;
   }
 }
 
@@ -57,11 +68,10 @@ body.home-intro {
 }
 
 .intro-subtitle {
-  margin-bottom: $small-spacing;
+  margin-top: $small-spacing;
   font-size: 1.2em;
-  font-family: $serif-font-family;
-  font-weight: $font-weight-normal;
-  font-style: italic;
+  font-family: $base-font-family;
+  font-weight: $font-weight-light;
 
   @include media($min-tablet-large) {
     font-size: 1.6rem;
