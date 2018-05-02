@@ -43,3 +43,12 @@
     font-size: 1.2rem;
   }
 }
+
+.home-page {
+  .site-footer p {
+    color: darken($white-color, 25%);
+  }
+  .site-footer a {
+    color: $light-blue-color;
+  }
+}

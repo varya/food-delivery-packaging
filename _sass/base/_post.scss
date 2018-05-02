@@ -57,3 +57,17 @@
     border: none;
   }
 }
+
+.post-content {
+  font-size: 20px;
+  padding-top: 2em;
+  font-weight: $font-weight-light;
+}
+
+.home-page {
+  a,
+  a:link,
+  a:visited {
+    color: lighten($light-blue-color, 25%);
+  }
+}

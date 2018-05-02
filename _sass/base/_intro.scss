@@ -8,15 +8,15 @@ body.home-intro {
   }
 }
 
-.home {
+.home-page {
+  background: $primary-color;
+  color: $white-color;
+
   .intro {
     background-color: $white-color;
     color: $black-color;
   }
-}
-.home-page {
-  background: $primary-color;
-  color: $white-color;
+
 }
 
 .intro {
