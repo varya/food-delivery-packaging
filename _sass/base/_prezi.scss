@@ -97,3 +97,43 @@
   }
 
 }
+
+.ideation-page {
+  .solution {
+    border-radius: 50px;
+    width: 31%;
+    margin: 1%;
+    padding: 20px;
+    color: $white-color;
+    display: inline-block;
+
+    h3 {
+      text-align: center;
+    }
+
+    b {
+      display: block;
+      text-align: center;
+      margin-top: 1em;
+    }
+
+    &--core {
+      background-color: $orange-color;
+    }
+    &--ideal {
+      background-color: $blue-color;
+    }
+    &--bike {
+      background-color: $magenta-color;
+    }
+    &--intelligent {
+      background-color: $light-green-color;
+    }
+    &--customized {
+      background-color: $pink-color;
+    }
+    &--partnership {
+      background-color: $violet-color;
+    }
+  }
+}

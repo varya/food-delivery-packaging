@@ -28,6 +28,8 @@ body_class: industry-page
 
 ## Delivery companies
 
+## Factory
+
 ## Video research
 
 ![](/idbm-packaging/assets/pictures/deliveroo2.png)

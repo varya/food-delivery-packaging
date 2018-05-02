@@ -2,14 +2,68 @@
 layout: page
 title: Ideation
 permalink: /ideation/
+body_class: ideation-page
 ---
 
-Text, photo and video about ideation.
+## Ecosystem
 
-How to insert photo:
+![](/idbm-packaging/assets/pictures/ideation-ecosystem.jpg)
 
-![](/assets/pictures/kitten.jpg)
+## Roadmap
 
-How to insert video:
+## Solution brainstorm
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5530I_pYjbo" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+![](/idbm-packaging/assets/pictures/solution-brainstorm.jpg)
+
+<div class="solution solution--ideal" markdown="1">
+### Ideal Packaging
+
+* Modular packaging
+* Branded sleeves made from flexibles
+* Trays
+* Carry strap
+</div>
+
+<div class="solution solution--core" markdown="1">
+### Core
+
+* Packaging by subscribtion 
+* More Agile
+* Dominating player scenario
+* With whom to partner
+* Web shop
+* Design team - Customer service
+
+**Packaging alone will not make it**
+</div>
+
+<div class="solution solution--bike" markdown="1">
+### Bike specific
+
+**Why should it always be worn?**
+</div>
+
+<div class="solution solution--partnership" markdown="1">
+### Partnership
+
+* Packaging designed with dishes
+* Food is part of design
+
+</div>
+
+<div class="solution solution--intelligent" markdown="1">
+### Intelligent Packaging
+
+* Sensors to monitor temperature
+* Sensors for humidity
+* Transfer data through delivery people phones
+* Take data from platform
+</div>
+
+<div class="solution solution--customized" markdown="1">
+### Customized
+
+**in small quantities**
+
+* Branded sleeves made from flexibles
+</div>
