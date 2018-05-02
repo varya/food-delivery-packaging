@@ -52,16 +52,18 @@
 
 
 .cloud {
-    display: inline-block;
-    list-style-type: none;
-    width: 400px;
+  display: inline-block;
+  list-style-type: none;
+  width: 400px;
   width: 50%;
-  margin: 0 25%;
+  margin: 2em 25%;
   text-align: center;
 }
 .cloud li {
-    list-style: none;
-    display: inline;
+  list-style: none;
+  display: inline;
+  white-space: nowrap;
+  margin-left: 1em;
 }
 .cloud li:nth-of-type(3n + 1) {
     font-size: 40px;
@@ -71,4 +73,27 @@
 }
 .cloud li:nth-of-type(5n - 3) {
     font-size: 25px;
+}
+
+.industry-page {
+
+  .restaurants-list {
+    font-size: 36px;
+     -moz-column-count: 3;
+    -webkit-column-count: 3;
+    column-count: 3;
+    -moz-column-gap: 20px;
+    -webkit-column-gap: 20px;
+    column-gap: 20px;
+    text-align: center;
+
+    li {
+      margin-bottom: 0.25em;
+    }
+  }
+
+  .foodora {
+    float: right;
+  }
+
 }

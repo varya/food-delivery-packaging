@@ -2,14 +2,34 @@
 layout: page
 title: Industry research
 permalink: /industry-research/
+body_class: industry-page
 ---
 
-Text, photo and video about industry research.
+## Conference in London
 
-How to insert photo:
+## Food To Go Study Tour
 
-![](/assets/pictures/kitten.jpg)
+* Coco Di Mama
+* Pure
+* Doughnut Time
+* Sub Cult
+* Rola Wala
+* Ole & Steen
+* Yolk
+* Veggie Pret
+* Inigo
+* HOP Vietnamese
+* Island Poke
+* The Kitchen
+* Crosstown Doughnuts
+* Vita Mojo
+* Japan Centre
+{: .restaurants-list }
 
-How to insert video:
+## Delivery companies
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5530I_pYjbo" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+## Video research
+
+![](/idbm-packaging/assets/pictures/deliveroo2.png)
+![](/idbm-packaging/assets/pictures/foodora1.png){: .foodora }
+![](/idbm-packaging/assets/pictures/wolt1.png){: .wolt }

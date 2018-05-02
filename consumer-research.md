@@ -77,14 +77,14 @@ permalink: /consumer-research/
  * moisture
  * condensation
  * spills
+ * too much
  * leaks
  * over-filling
- * too much
  * bad lids
  * garbadge
  * eco-unfriendly
  * not warm
- * not&nbsp;recycable
+ * not recycable
 {: .cloud }
 
 
