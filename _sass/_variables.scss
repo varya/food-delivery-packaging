@@ -1,6 +1,6 @@
 // Typography
 //
-$base-font-family: 'Proxima Nova', Arial, sans-serif;
+$base-font-family: 'Lato', Arial, sans-serif;
 $serif-font-family: "Georgia", serif;
 $heading-font-family: $base-font-family;
 $fonts-path: '../fonts/';
@@ -9,7 +9,7 @@ $fonts-path: '../fonts/';
 //
 $font-weight-light: 300;
 $font-weight-normal: 500;
-$font-weight-bold: 600;
+$font-weight-bold: 700;
 
 // Font Sizes
 //
@@ -30,11 +30,20 @@ $base-z-index: 0;
 
 // Colors
 //
-$primary-color: #17317A;
+$primary-color: #003D7E;
 $white-color: #fff;
 $black-color: #000;
-$blue-color: #477dca;
-$tiffany-color: #72B6B1;
+$blue-color: #0075B4;
+
+$light-blue-color: #00A8DE;
+$tiffany-color: #39C1BE;
+$violet-color: #3E257A;
+$light-green-color: #71BA47;
+$magenta-color: #9F0A4E;
+$pink-color: #F40D69;
+$orange-color: #FF8A3A;
+$yellow-color: #FFE25C;
+
 $dark-gray-color: lighten($black-color, 25%);
 $medium-gray-color: lighten($dark-gray-color, 20%);
 $light-gray-color: lighten($medium-gray-color, 20%);

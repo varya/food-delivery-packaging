@@ -134,7 +134,7 @@ window.onload = function() {
   ];
   countries.forEach(function(c) {
     console.log(c);
-    map.getSVGDocument().querySelector('[cc=' + c + ']').style.fill = "#72B6B1";
+    map.getSVGDocument().querySelector('[cc=' + c + ']').style.fill = "#39C1BE";
   });
 }
 </script>

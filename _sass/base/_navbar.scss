@@ -6,7 +6,7 @@
   top: 20px;
   height: 54px;
   width: 54px;
-  background-color: $primary-color;
+  background-color: $blue-color;
   border-radius: 50%;
 
   /* image replacement */
@@ -117,7 +117,7 @@
   width: 100%;
   text-align: center;
   visibility: hidden;
-  background-color: tint($black-color, 5%);
+  background-color: $primary-color;
   @include transition(visibility 0s $animation-duration);
 
   .navigation-wrapper {
@@ -149,9 +149,9 @@
   h2 {
     position: relative;
     margin-bottom: 1.7em;
-    font-size: 1.3rem;
+    font-size: 1.6rem;
     font-weight: 800;
-    color: darken($primary-color, 5%);
+    color: $tiffany-color;
     text-transform: uppercase;
 
     &::after {
@@ -176,7 +176,7 @@
     a {
       font-size: 1.4rem;
       text-decoration: none;
-      color: rgba($white-color, .5);
+      color: $white-color;
       font-weight: $font-weight-light;
       display: inline-block;
 
