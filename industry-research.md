@@ -32,6 +32,6 @@ body_class: industry-page
 
 ## Video research
 
-![](/idbm-packaging/assets/pictures/deliveroo2.png)
+![](/idbm-packaging/assets/pictures/deliveroo2.png){: .deliveroo }
 ![](/idbm-packaging/assets/pictures/foodora1.png){: .foodora }
 ![](/idbm-packaging/assets/pictures/wolt1.png){: .wolt }
