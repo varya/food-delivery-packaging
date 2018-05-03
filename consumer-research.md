@@ -11,7 +11,7 @@ permalink: /consumer-research/
 </div>
 <div class="block">
   <h3 class="block__title">30</h3>
-  <p class="block__text">Counties</p>
+  <p class="block__text">Countries</p>
 </div>
 <div class="block">
   <h3 class="block__title">10</h3>
@@ -86,6 +86,9 @@ permalink: /consumer-research/
  * not warm
  * not recycable
 {: .cloud }
+
+
+## [Industry research](/idbm-packaging/industry-research/){: .next }
 
 
 <script>

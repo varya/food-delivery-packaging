@@ -24,10 +24,3 @@ header:
 
   </section>
 ---
-
-Text describing our research. With links to
-
-* [consumer research](/idbm-packaging/consumer-research/)
-* [industry research](/idbm-packaging/industry-research/)
-* [ideation](/idbm-packaging/ideation/)
-* [solution](/idbm-packaging/solution/)

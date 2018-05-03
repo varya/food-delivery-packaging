@@ -10,11 +10,12 @@ a.button,
   cursor: pointer;
   display: inline-block;
   font-family: $base-font-family;
-  font-size: $base-font-size;
+  font-size: 25px;
   -webkit-font-smoothing: antialiased;
   font-weight: $font-weight-bold;
   line-height: 1;
   padding: $small-spacing $base-spacing;
+  margin: 20px;
   text-decoration: none;
   @include transition(background-color $base-duration $base-timing);
   user-select: none;

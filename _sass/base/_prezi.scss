@@ -92,6 +92,72 @@
     }
   }
 
+  .company {
+    display: inline-block;
+    width: 31%;
+    margin: 1%;
+
+    li {
+      &:first-child {
+        background-color: $primary-color;
+        padding: 20px;
+        border-radius: 40px;
+        text-align: center;
+        color: $white-color;
+        font-size: 40px;
+        margin-bottom: 20px;
+      }
+    }
+
+    &--second {
+      width: 22.5%;
+
+      li {
+        &:first-child {
+          font-size: 25px;
+          padding: 15px;
+          border-radius: 30px;
+        }
+      }
+    }
+
+    &--foodora {
+      li:first-child {
+        background-color: $pink-color;
+      }
+    }
+    &--delivery-hero {
+      li:first-child {
+        background-color: $violet-color;
+      }
+    }
+    &--delivery-hero {
+      li:first-child {
+        background-color: $light-green-color;
+      }
+    }
+    &--uber-eats {
+      li:first-child {
+        background-color: $dark-gray-color;
+      }
+    }
+    &--food-panda {
+      li:first-child {
+        background-color: $orange-color;
+      }
+    }
+    &--delivery-club {
+      li:first-child {
+        background-color: $tiffany-color;
+      }
+    }
+
+  }
+
+  .factory {
+    width: 49%;
+  }
+
   .deliveroo {
     transform: skew(7deg, 3deg);
     box-shadow: 
@@ -152,4 +218,71 @@
       background-color: $violet-color;
     }
   }
+
+  .sketch {
+    width: 31%;
+    margin: 60px 1% 0;
+  }
+}
+
+.solution-page {
+
+  .solution {
+    width: 49%;
+  }
+
+  .features {
+    display: inline-block;
+    width: 31%;
+    margin: 1%;
+
+    li {
+      &:first-child {
+        background: $tiffany-color;
+        border-radius: 30px;
+        padding: 10px;
+        font-size: 30px;
+        color: $white-color;
+        text-align: center;
+        margin-bottom: 20px;
+      }
+
+      padding: 0 10px;
+    }
+  }
+
+  .sleeve {
+    width: 50%;
+  }
+
+  .iot-text {
+    font-size: 28px;
+  }
+
+  .eggs, .arrange, .cats {
+    height: 242px;
+  }
+
+}
+
+.next,
+.prev {
+
+  display: inline-block;
+    font-size: 50px;
+    text-decoration: none;
+}
+
+.next {
+  &:after {
+    content: '↬';
+    width: 65px;
+    height: 65px;
+    display: inline-block;
+    background-color: $primary-color;
+    border-radius: 50%;
+    color: $white-color;
+    margin: 0 15px;
+  }
+
 }

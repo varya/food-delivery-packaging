@@ -9,8 +9,6 @@ body_class: ideation-page
 
 ![](/idbm-packaging/assets/pictures/ideation-ecosystem.jpg)
 
-## Roadmap
-
 ## Solution brainstorm
 
 ![](/idbm-packaging/assets/pictures/solution-brainstorm.jpg)
@@ -67,3 +65,10 @@ body_class: ideation-page
 
 * Branded sleeves made from flexibles
 </div>
+
+
+![](/idbm-packaging/assets/pictures/sketch1.jpg){: .sketch }
+![](/idbm-packaging/assets/pictures/sketch2.jpg){: .sketch }
+![](/idbm-packaging/assets/pictures/sketch3.jpg){: .sketch }
+
+## [Solution](/idbm-packaging/solution/){: .next }
