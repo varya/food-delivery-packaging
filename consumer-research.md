@@ -18,7 +18,7 @@ permalink: /consumer-research/
   <p class="block__text">Meal services</p>
 </div>
 
-<object type="image/svg+xml" data="/idbm-packaging/assets/pictures/map.svg" id="map" class="map"></object>
+![](/idbm-packaging/assets/pictures/map.png)
 
 ## People avoid food because of the issues
 
@@ -90,54 +90,3 @@ permalink: /consumer-research/
 
 ## [Industry research](/idbm-packaging/industry-research/){: .next }
 
-
-<script>
-window.onload = function() {
-  var map = document.getElementById('map');
-  var countries = [
-    'in',
-    'ru',
-    'fi',
-    'us',
-    'lk',
-    'nz',
-    'au',
-    'gr',
-    'nl',
-    'ke',
-    'co',
-    'dk',
-    'jp',
-    'be',
-    'ee',
-    'de',
-    'ua',
-    'ca',
-    'gb',
-    'om',
-    'ng',
-    'ae',
-    'kr',
-    'fr',
-    'za',
-    'it',
-    'ie',
-    'cn',
-    'th',
-    'pl',
-    'gh',
-    'vn',
-    'ch',
-    'eg',
-    'ar',
-    'es',
-    'jo',
-    'no',
-    'my'
-  ];
-  countries.forEach(function(c) {
-    console.log(c);
-    map.getSVGDocument().querySelector('[cc=' + c + ']').style.fill = "#39C1BE";
-  });
-}
-</script>
