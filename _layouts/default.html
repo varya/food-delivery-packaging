@@ -6,13 +6,9 @@ layout: compress
 
   {% include head.html %}
 
-  <body{% if page.body_class %} class="{{ page.body_class }}{% endif %}">
+  <body{% if page.body_class %} class="{{ page.body_class }}{% endif %}" id="page-top">
 
-    <main class="wrapper">
-      {% include header.html %}
       {{ content }}
-      {% include footer.html %}
-    </main>
 
     {% include scripts.html %}
   </body>
