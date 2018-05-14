@@ -293,7 +293,8 @@
     background-color: $pink-color !important;
   }
 
-  section div a {
+  section,
+  section a {
     text-decoration: none;
     color: $white-color;
 
@@ -302,6 +303,7 @@
     }
   }
 
+  section.bg-light,
   section.bg-light a {
     text-decoration: none;
     color: $black-color;
