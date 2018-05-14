@@ -8,7 +8,7 @@ body_class: home-page
 <!-- Navigation -->
 <nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top" id="mainNav">
   <div class="container">
-    <a class="navbar-brand js-scroll-trigger" href="#page-top">Start Bootstrap</a>
+    <a class="navbar-brand js-scroll-trigger" href="#page-top">Huhtamaki</a>
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
     </button>
@@ -39,8 +39,9 @@ body_class: home-page
 
 <header class="bg-primary text-white">
   <div class="container text-center">
-    <h1>Welcome to Scrolling Nav</h1>
-    <p class="lead">A landing page template freshly redesigned for Bootstrap 4</p>
+      <object type="image/svg+xml" data="assets/pictures/huhtamaki-logo.svg" class="huhtamaki-logo"></object>
+
+      <h2 class="intro-subtitle">Future solutions for food packaging</h2>
   </div>
 </header>
 

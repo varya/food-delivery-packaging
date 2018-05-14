@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Consumer research
-permalink: /consumer-research/
+permalink: /consumer-findings/
 ---
 
 

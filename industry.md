@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Industry research
-permalink: /industry-research/
+permalink: /industry/
 body_class: industry-page
 ---
 

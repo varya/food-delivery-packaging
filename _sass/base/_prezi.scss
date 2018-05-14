@@ -286,3 +286,29 @@
   }
 
 }
+
+.home-page {
+
+  .bg-primary {
+    background-color: $pink-color !important;
+  }
+
+  section div a {
+    text-decoration: none;
+    color: $white-color;
+
+    &:hover {
+      color: $tiffany-color;
+    }
+  }
+
+  section.bg-light a {
+    text-decoration: none;
+    color: $black-color;
+
+    &:hover {
+      color: $blue-color;
+    }
+  }
+
+}

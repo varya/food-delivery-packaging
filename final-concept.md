@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Solution
-permalink: /solution/
+permalink: /final-concept/
 body_class: solution-page
 ---
 
