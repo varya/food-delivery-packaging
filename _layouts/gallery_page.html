@@ -95,7 +95,7 @@ layout: default
 <hr />
 {% for image in page.images %}
     <div class="gallery-image-wrapper">
-        <img class="gallery-image" src="thumbs/{{ image.name }}"  onclick="lightbox(0)" />
+        <img class="gallery-image" src="thumbs/{{ image.name }}"  onclick="lightbox({{ forloop.index0 }})" />
     </div>
 {% endfor %}
 <hr />
