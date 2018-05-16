@@ -1,0 +1,45 @@
+.about-page {
+
+    .team {
+        text-align: center;
+    }
+
+    .team-card {
+        width: 20%;
+        margin: 0 3%;
+        display: inline-block;
+        text-align: center;
+
+        &:first-of-type {
+            margin-left: 0;
+        }
+        &:last-of-type {
+            margin-right: 0;
+        }
+
+        &__image {
+            border-radius: 50%;
+            width: 100%;
+        }
+
+        h4 {
+            margin: 0;
+            font-size: 20px;
+        }
+
+        h5 {
+            font-weight: 300;
+            margin-top: 0.25em;
+        }
+
+        &__linkedin {
+            font-size: 12px;
+            &:before {
+                @include fa;
+                @include fa(twitter);
+                font-size: 150%;
+                margin-right: 0.25em;
+            }
+        }
+    }
+}
