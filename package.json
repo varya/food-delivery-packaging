@@ -1,0 +1,26 @@
+{
+  "name": "delivery-food-packaging",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy": "git-directory-deploy --directory ./_site --repo origin --branch gh-pages"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/varya/food-delivery-packaging.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/varya/food-delivery-packaging/issues"
+  },
+  "homepage": "https://github.com/varya/food-delivery-packaging#readme",
+  "dependencies": {
+    "startbootstrap-scrolling-nav": "^4.0.0"
+  },
+  "devDependencies": {
+    "git-directory-deploy": "^1.5.1"
+  }
+}
