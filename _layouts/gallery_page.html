@@ -1,0 +1,110 @@
+---
+layout: default
+---
+<link href="{{ "/assets/css/ninja-slider.css" | prepend: site.baseurl }}" rel="stylesheet" type="text/css" />
+<script src="{{ "/assets/js/ninja-slider.js" | prepend: site.baseurl }}" type="text/javascript"></script>
+<script>
+    function lightbox(idx) {
+        /*show the slider's wrapper: this is required when the transitionType has been set to "slide" in the ninja-slider.js*/
+        var ninjaSldr = document.getElementById("ninja-slider");
+        ninjaSldr.parentNode.style.display = "block";
+
+        nslider.init(idx);
+
+        var fsBtn = document.getElementById("fsBtn");
+        fsBtn.click();
+    }
+
+    function fsIconClick(isFullscreen, ninjaSldr) { /*fsIconClick is the default event handler of the fullscreen button*/
+        if (isFullscreen) {
+            ninjaSldr.parentNode.style.display = "none";
+        }
+    }
+</script>
+<style>
+    body {font: normal 0.9em Arial;margin:0;background:#f5f5f5;}
+    a {color:#1155CC;}
+    ul li {padding: 10px 0;}
+    header {display:block;padding:60px 0 10px;background-color:#191919;text-align:center;}
+    header a {
+        font-family: sans-serif;
+        font-size: 24px;
+        line-height: 24px;
+        padding: 8px 13px 7px;
+        color: #4d5256;
+        text-decoration:none;
+        transition: color 0.7s;
+    }
+    header a.active {
+        font-weight:bold;
+        width: 24px;
+        height: 24px;
+        padding: 4px;
+        text-align: center;
+        display:inline-block;
+        border-radius: 50%;
+        background: #4d5256;
+        color: #191919;
+    }
+    .gallery img{
+        width:179px;
+        cursor:pointer;
+    }
+</style>
+
+
+<style TYPE="text/css">
+.gallery-image-wrapper {
+  height: 300px;
+  width: 300px;
+  display: inline-block;
+  margin: 1em;
+  position: relative;
+}
+.gallery-image {
+  margin: auto;
+  position: absolute;
+  top: 0px;
+  bottom: 0px;
+  max-height: 100%;
+  max-width: 100%;
+}
+</style>
+
+ <!--start-->
+ <div style="display:none;">
+    <div id="ninja-slider">
+        <div class="slider-inner">
+            <ul>
+                {% for image in page.images %}
+                    <li>
+                        <a class="ns-img" href="{{ image.name }}"></a>
+                        <div class="caption">
+                            <h3>Dummy Caption 1</h3>
+                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus accumsan purus.</p>
+                        </div>
+                    </li>
+                {% endfor %}
+            </ul>
+            <div id="fsBtn" class="fs-icon" title="Expand/Close"></div>
+        </div>
+    </div>
+</div>
+
+<h1><a href="/{{ site.gallery.dir }}">{{ page.title }}</a></h1>
+<hr />
+{% for image in page.images %}
+    <div class="gallery-image-wrapper">
+        <img class="gallery-image" src="thumbs/{{ image.name }}"  onclick="lightbox(0)" />
+    </div>
+{% endfor %}
+<hr />
+
+{% for image in page.images %}
+    <div class="gallery-image-wrapper">
+        <a name="{{ image.name }}"></a>
+        <a href="{{ image.name }}"{% if site.gallery.lightbox %} rel="lightbox[{{ page.gallery }}]"{% endif %}>
+            <img class="gallery-image" src="thumbs/{{ image.name }}" />
+        </a>
+    </div>
+{% endfor %}
