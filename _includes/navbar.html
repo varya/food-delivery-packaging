@@ -1,25 +1,37 @@
-<a href="#navbar" id="menu-burger" class="menu-burger">Menu
-  <span class="nav-icon"></span>
+{% assign pages_list = site.pages | sort: 'position' %}
+{% assign group = 'navigation' %}
 
-  <svg x="0px" y="0px" width="54px" height="54px" viewBox="0 0 54 54">
-    <circle fill="transparent" stroke="#000000" stroke-width="1" cx="27" cy="27" r="25" stroke-dasharray="157 157" stroke-dashoffset="157"></circle>
-  </svg>
-</a>
-
-<div id="navbar" class="navbar">
-  <div class="navigation-wrapper">
-    <div class="half-block">
-      <h2>Navigation</h2>
-
-      <nav>
-        <ul class="primary-nav">
-          <li><a href="{{ '/' | prepend: site.baseurl }}">Home</a></li>
-          <li><a href="{{ '/consumer-research' | prepend: site.baseurl }}">Consumer research</a></li>
-          <li><a href="{{ '/industry-research' | prepend: site.baseurl }}">Industry research</a></li>
-          <li><a href="{{ '/ideation' | prepend: site.baseurl }}">Ideation</a></li>
-          <li><a href="{{ '/solution' | prepend: site.baseurl }}">Solution</a></li>
+<!-- Navigation -->
+<nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top" id="mainNav">
+    <div class="container">
+      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse" id="navbarResponsive">
+        <ul class="navbar-nav ml-auto">
+          {% include pages-list.html %}
+          <!--<li class="nav-item">
+            <a class="nav-link js-scroll-trigger" href="#about">Home</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link js-scroll-trigger" href="#about">About</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link js-scroll-trigger" href="#consumer">Consumer</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link js-scroll-trigger" href="#industry">Industry</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link js-scroll-trigger" href="#ecosystem">Ecosystem</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link js-scroll-trigger" href="#ideation">Ideation</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link js-scroll-trigger" href="#final-concept">Final Concept</a>
+          </li>-->
         </ul>
-      </nav>
+      </div>
     </div>
-  </div>
-</div>
+  </nav>

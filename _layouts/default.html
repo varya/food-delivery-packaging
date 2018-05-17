@@ -8,6 +8,8 @@ layout: compress
 
   <body{% if page.body_class %} class="{{ page.body_class }}{% endif %}" id="page-top">
 
+      {% include navbar.html %}
+
       {{ content }}
 
     {% include scripts.html %}

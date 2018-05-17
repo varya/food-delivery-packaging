@@ -4,6 +4,7 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: index
 body_class: home-page
+
 ---
 
 <header class="bg-primary text-white">
@@ -29,12 +30,12 @@ body_class: home-page
   </div>
 </section>
 
-<section id="consumer" class="bg-light">
+<section id="methodology" class="bg-light">
   <div class="container">
     <div class="row">
       <div class="col-lg-8 mx-auto">
-        <a href="consumer-findings/">
-        <h2>Consumer Findings</h2>
+        <a href="methodology/">
+        <h2>Methodology</h2>
         <p class="lead">
         Our extensive consumer research proved to be extremely fruitful as it provided us with a clear picture of
         </p>
@@ -44,12 +45,12 @@ body_class: home-page
   </div>
 </section>
 
-<section id="industry">
+<section id="findings">
   <div class="container">
     <div class="row">
       <div class="col-lg-8 mx-auto">
-        <a href="industry/">
-        <h2>Industry</h2>
+        <a href="findings/">
+        <h2>Findings</h2>
         <p class="lead">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vero odio fugiat voluptatem dolor, provident officiis, id iusto! Obcaecati incidunt, qui nihil beatae magnam et repudiandae ipsa exercitationem, in, quo totam.</p>
         </a>
       </div>
@@ -57,36 +58,12 @@ body_class: home-page
   </div>
 </section>
 
-<section id="ecosystem" class="bg-light">
+<section id="concepts" class="bg-light">
   <div class="container">
     <div class="row">
       <div class="col-lg-8 mx-auto">
-        <h2>Ecosystem</h2>
-        <p class="lead">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut optio velit inventore, expedita quo laboriosam possimus ea consequatur vitae, doloribus consequuntur ex. Nemo assumenda laborum vel, labore ut velit dignissimos.</p>
-      </div>
-    </div>
-  </div>
-</section>
-
-<section id="ideation">
-  <div class="container">
-    <div class="row">
-      <div class="col-lg-8 mx-auto">
-        <a href="ideation/">
-        <h2>Ideation</h2>
-        <p class="lead">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vero odio fugiat voluptatem dolor, provident officiis, id iusto! Obcaecati incidunt, qui nihil beatae magnam et repudiandae ipsa exercitationem, in, quo totam.</p>
-        </a>
-      </div>
-    </div>
-  </div>
-</section>
-
-<section id="final-concept" class="bg-light">
-  <div class="container">
-    <div class="row">
-      <div class="col-lg-8 mx-auto">
-        <a href="final-concept/">
-        <h2>Final concept and next steps</h2>
+        <a href="concepts/">
+        <h2>Concepts</h2>
         <p class="lead">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut optio velit inventore, expedita quo laboriosam possimus ea consequatur vitae, doloribus consequuntur ex. Nemo assumenda laborum vel, labore ut velit dignissimos.</p>
         </a>
       </div>

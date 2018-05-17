@@ -1,8 +1,11 @@
 ---
 layout: page
-title: Solution
-permalink: /final-concept/
+title: Concepts
+permalink: /concepts/
 body_class: solution-page
+
+group: navigation
+position: 6
 ---
 
 ![](/idbm-packaging/assets/pictures/solution1.jpg){: .solution }

@@ -3,6 +3,9 @@ layout: page
 title: About
 permalink: /about/
 body_class: about-page
+
+group: navigation
+position: 1
 ---
 
 

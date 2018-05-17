@@ -1,7 +1,10 @@
 ---
 layout: page
-title: Consumer research
-permalink: /consumer-findings/
+title: Methodology
+permalink: /methodology/
+
+group: navigation
+position: 2
 ---
 
 

@@ -1,8 +1,11 @@
 ---
 layout: page
-title: Ideation
-permalink: /ideation/
-body_class: ideation-page
+title: Findings
+permalink: /findings/
+body_class: findings-page
+
+group: navigation
+position: 5
 ---
 
 ## Ecosystem
