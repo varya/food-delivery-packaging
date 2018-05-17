@@ -105,3 +105,5 @@ We were to consider the needs of mature markets like those in Europe and America
 Our overall project plan was as follows.
 
 INSERT PLAN (from where?)
+
+<div class="inner-gallery" data-gallery="test"></div>

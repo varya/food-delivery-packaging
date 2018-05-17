@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: empty
 ---
 <link href="{{ "/assets/css/ninja-slider.css" | prepend: site.baseurl }}" rel="stylesheet" type="text/css" />
 <script src="{{ "/assets/js/ninja-slider.js" | prepend: site.baseurl }}" type="text/javascript"></script>
@@ -78,7 +78,7 @@ layout: default
             <ul>
                 {% for image in page.images %}
                     <li>
-                        <a class="ns-img" href="{{ image.name }}"></a>
+                        <a class="ns-img" href="{{ page.dir | prepend: site.baseurl  }}{{ image.name }}"></a>
                         <div class="caption">
                             <h3>Dummy Caption 1</h3>
                             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus accumsan purus.</p>
@@ -95,16 +95,6 @@ layout: default
 <hr />
 {% for image in page.images %}
     <div class="gallery-image-wrapper">
-        <img class="gallery-image" src="thumbs/{{ image.name }}"  onclick="lightbox({{ forloop.index0 }})" />
-    </div>
-{% endfor %}
-<hr />
-
-{% for image in page.images %}
-    <div class="gallery-image-wrapper">
-        <a name="{{ image.name }}"></a>
-        <a href="{{ image.name }}"{% if site.gallery.lightbox %} rel="lightbox[{{ page.gallery }}]"{% endif %}>
-            <img class="gallery-image" src="thumbs/{{ image.name }}" />
-        </a>
+        <img class="gallery-image" src="{{ page.dir | prepend: site.baseurl  }}thumbs/{{ image.name }}"  onclick="lightbox({{ forloop.index0 }})" />
     </div>
 {% endfor %}
