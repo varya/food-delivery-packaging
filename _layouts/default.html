@@ -6,7 +6,7 @@ layout: compress
 
   {% include head.html %}
 
-  <body{% if page.body_class %} class="{{ page.body_class }}{% endif %}" id="page-top">
+  <body{% if page.body_class %} class="{{ page.body_class }}{% endif %}" id="page-top" data-spy="scroll"  data-target=".navbar" data-offset="50">
 
       {% include navbar.html %}
 

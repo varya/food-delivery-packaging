@@ -1,0 +1,46 @@
+.home-page {
+
+    header {
+        height: 400px;
+        background-color: $white-color;
+        padding-top: 100px;
+        color: $dark-gray-color;
+        font-size: 28px;
+
+        .huhtamaki-logo {
+            width: 500px;
+        }
+    }
+
+    section {
+        padding-top:50px;
+        height:500px;
+
+        color: $white-color;
+    }
+
+    #about {
+        background-color: $tiffany-color;
+    }
+
+    #methodology {
+        background-color: $violet-color;
+    }
+    #findings {
+        background-color: $orange-color;
+    }
+    #concepts {
+        background-color: $light-green-color;
+    }
+
+    section,
+    section a {
+      text-decoration: none;
+      color: $white-color;
+  
+      &:hover {
+        color: $yellow-color;
+      }
+    }
+
+}

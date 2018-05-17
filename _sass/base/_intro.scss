@@ -74,6 +74,6 @@ body.home-intro {
   font-weight: $font-weight-light;
 
   @include media($min-tablet-large) {
-    font-size: 1.6rem;
+    font-size: 1.6em;
   }
 }

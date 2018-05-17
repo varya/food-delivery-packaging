@@ -1,16 +1,24 @@
 {% assign pages_list = site.pages | sort: 'position' %}
 {% assign group = 'navigation' %}
 
+<!-- Source: https://codepen.io/littus/pen/JbPpKv -->
+
 <!-- Navigation -->
-<nav class="navbar navbar-expand-lg navbar-dark fixed-top" id="mainNav">
+<nav class="navbar navbar-inverse" data-spy="affix" data-offset-top="197">
     <div class="container">
-      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
-        <span class="navbar-toggler-icon"></span>
-      </button>
-      <div class="collapse navbar-collapse" id="navbarResponsive">
-        <ul class="navbar-nav ml-auto">
+      <div class="navbar-header">
+          <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+        </button>
+      </div>
+      <div>
+        <div class="collapse navbar-collapse" id="myNavbar">
+        <ul class="nav navbar-nav">
           {% include pages-list.html %}
         </ul>
       </div>
     </div>
-  </nav>
+  </div>
+</nav>

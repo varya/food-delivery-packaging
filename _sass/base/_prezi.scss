@@ -1,7 +1,3 @@
-.huhtamaki-logo {
-  width: 18em;
-}
-
 .intro-actions {
   margin-top: 3em;
 }
@@ -283,34 +279,6 @@
     border-radius: 50%;
     color: $white-color;
     margin: 0 15px;
-  }
-
-}
-
-.home-page {
-
-  .bg-primary {
-    background-color: $pink-color !important;
-  }
-
-  section,
-  section a {
-    text-decoration: none;
-    color: $white-color;
-
-    &:hover {
-      color: $tiffany-color;
-    }
-  }
-
-  section.bg-light,
-  section.bg-light a {
-    text-decoration: none;
-    color: $black-color;
-
-    &:hover {
-      color: $blue-color;
-    }
   }
 
 }

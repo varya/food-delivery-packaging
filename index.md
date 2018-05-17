@@ -6,8 +6,7 @@ layout: index
 body_class: home-page
 
 ---
-
-<header class="bg-primary text-white">
+<header class="container-fluid text-white">
   <div class="container text-center">
       <object type="image/svg+xml" data="assets/pictures/huhtamaki-logo.svg" class="huhtamaki-logo"></object>
 
@@ -15,7 +14,7 @@ body_class: home-page
   </div>
 </header>
 
-<section id="about">
+<section id="about" class="container-fluid">
   <div class="container">
     <div class="row">
       <div class="col-lg-8 mx-auto">
@@ -30,7 +29,7 @@ body_class: home-page
   </div>
 </section>
 
-<section id="methodology" class="bg-light">
+<section id="methodology" class="container-fluid">
   <div class="container">
     <div class="row">
       <div class="col-lg-8 mx-auto">
@@ -45,7 +44,7 @@ body_class: home-page
   </div>
 </section>
 
-<section id="findings">
+<section id="findings" class="container-fluid">
   <div class="container">
     <div class="row">
       <div class="col-lg-8 mx-auto">
@@ -58,7 +57,7 @@ body_class: home-page
   </div>
 </section>
 
-<section id="concepts" class="bg-light">
+<section id="concepts"  class="container-fluid">
   <div class="container">
     <div class="row">
       <div class="col-lg-8 mx-auto">

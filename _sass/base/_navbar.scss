@@ -1,17 +1,26 @@
+body {
+  position: relative;
+  height: auto;
+}
+.affix {
+  top:0;
+  width: 100%;
+  z-index: 9999 !important;
+}
+.navbar {
+  margin-bottom: 0px;
+}
+.affix ~ .container-fluid {
+ position: relative;
+ top: 50px;
+}
+
 .navbar {
   background-color: $primary-color;
-  font-size: 1.6rem;
+  font-size: 24px;
   font-weight: 300;
 
-  .nav-item {
-    margin-right: 1em;
-
-    &:last-of-type {
-      margin-right: 0;
-    }
-  }
-
-  .nav-link {
+  a {
     text-decoration: none;
   }
 
