@@ -14,7 +14,7 @@ The food delivery ecosystem is huge. According to data from Statista, the market
 
 <div class="team-card" markdown="1">
 
-![](../assets/pictures/team/default.png){: .team-card__image}
+![](../assets/pictures/team/juho.jpg){: .team-card__image}
 #### Juho Viironen
 [/in/juho-viironen-aa650439/](https://www.linkedin.com/in/juho-viironen-aa650439/){: .team-card__linkedin}
 
@@ -30,7 +30,7 @@ The food delivery ecosystem is huge. According to data from Statista, the market
 
 <div class="team-card" markdown="1">
 
-![](../assets/pictures/team/default.png){: .team-card__image}
+![](../assets/pictures/team/adi.jpg){: .team-card__image}
 #### Adithya Varadarajan
 [/in/adithyadesign/](https://www.linkedin.com/in/adithyadesign/){: .team-card__linkedin}
 
@@ -38,7 +38,7 @@ The food delivery ecosystem is huge. According to data from Statista, the market
 
 <div class="team-card" markdown="1">
 
-![](../assets/pictures/team/default.png){: .team-card__image}
+![](../assets/pictures/team/jialai.jpg){: .team-card__image}
 #### Jialai Qian
 [/in/jialai-qian-a30877154/](https://www.linkedin.com/in/jialai-qian-a30877154/){: .team-card__linkedin}
 
