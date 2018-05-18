@@ -1,0 +1,4 @@
+AuthType Basic
+AuthName "Huhtamaki Team delivery food report"
+AuthUserFile .htpasswd
+Require valid-user
