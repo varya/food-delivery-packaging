@@ -50,7 +50,9 @@ gallery:
   galleries:
     process:
       best_image: IMG_3770.jpg  # The image to show on the gallery index page. Defaults to the last image.
+      lightbox: true
 
+include: ['.htaccess', '.htpasswd']
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
