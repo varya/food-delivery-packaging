@@ -97,8 +97,7 @@ body_class: home-page
     </div>
     <div class="row">
       <div class="col-lg-12 mx-auto">
-        process image here
-      </div>
+        <object type="image/svg+xml" data="assets/pictures/schemes/process.svg" class="process"></object>      </div>
     </div>
     <div class="row">
       <div class="col-lg-10 mx-auto">
