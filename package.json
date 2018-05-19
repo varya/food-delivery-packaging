@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "deploy": "git-directory-deploy --directory ./_site --repo origin --branch gh-pages"
+    "deploy": "git-directory-deploy --directory ./_site --repo origin --branch gh-pages",
+    "ftp-deploy": "node ./ftp-deploy.js"
   },
   "repository": {
     "type": "git",
@@ -21,6 +22,7 @@
     "startbootstrap-scrolling-nav": "^4.0.0"
   },
   "devDependencies": {
+    "ftp-deploy": "^2.0.5",
     "git-directory-deploy": "^1.5.1"
   }
 }
