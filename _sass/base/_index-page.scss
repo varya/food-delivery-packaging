@@ -10,12 +10,15 @@
         .huhtamaki-logo {
             width: 500px;
         }
+
+        .aalto-logo {
+            width: 200px;
+        }
     }
 
     section {
-        padding-top:50px;
-        height:500px;
-
+        padding-top: 100px;
+        padding-bottom: 60px;
         color: $white-color;
     }
 
@@ -37,10 +40,18 @@
     section a {
       text-decoration: none;
       color: $white-color;
+      cursor: pointer;
   
       &:hover {
-        color: $yellow-color;
+        /*color: $light-gray-color;*/
       }
+    }
+
+    .card {
+        &--team {
+            background-color: transparent;
+            border: none;
+        }
     }
 
 }

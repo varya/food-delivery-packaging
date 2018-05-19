@@ -18,12 +18,68 @@ body_class: home-page
   <div class="container">
     <div class="row">
       <div class="col-lg-8 mx-auto">
-        <a href="about">
-        <h2>About the project</h2>
+        <h2>About this project</h2>
         <p class="lead">
         Huhtamäki are global specialists in packaging for food and drink, dedicated to making every consumer experience enjoyable, consistent, and safe. They approached Aalto University’s Masters Program in International Design Business Management for this student project to help them solve a business & product related problem.
         </p>
-        </a>
+      </div>
+      <div class="col-lg-4 mx-auto">
+        <object type="image/svg+xml" data="assets/pictures/huhtamaki-logo.svg" class="huhtamaki-logo"></object>
+        <object type="image/svg+xml" data="assets/pictures/aalto-logo.svg" class="aalto-logo"></object>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-lg-12 mx-auto">
+        <h3>The team</h3>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-lg-3 mx-auto">
+        <div class="card card--team" style="width: 100%">
+          <img class="card-img-top rounded-circle" src="assets/pictures/team/juho.jpg" alt="Card image cap">
+          <div class="card-body">
+            <h5 class="card-title">Juho Viironen</h5>
+          </div>
+         </div>
+      </div>
+      <div class="col-lg-3 mx-auto">
+        <div class="card card--team" style="width: 100%">
+          <img class="card-img-top rounded-circle" src="assets/pictures/team/varya.jpg" alt="Card image cap">
+          <div class="card-body">
+            <h5 class="card-title">Varya Stepanova</h5>
+          </div>
+         </div>
+      </div>
+      <div class="col-lg-3 mx-auto">
+        <div class="card card--team" style="width: 100%">
+          <img class="card-img-top rounded-circle" src="assets/pictures/team/adi.jpg" alt="Card image cap">
+          <div class="card-body">
+            <h5 class="card-title">Adithya Varadarajan</h5>
+          </div>
+         </div>
+      </div>
+      <div class="col-lg-3 mx-auto">
+        <div class="card card--team" style="width: 100%">
+          <img class="card-img-top rounded-circle" src="assets/pictures/team/jialai.jpg" alt="Card image cap">
+          <div class="card-body">
+            <h5 class="card-title">Jialai Qian</h5>
+          </div>
+         </div>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-lg-12 mx-auto">
+        <h3>The goal</h3>
+        <p>
+        Understanding and visualizing the rapidly growing global Food Delivery Ecosystem and providing future focused solutions for how Huhtamaki can become a player in this ecosystem
+        </p>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-lg-10 mx-auto">
+      </div>
+      <div class="col-lg-2 mx-auto">
+        <a class="btn btn-primary" href="about" role="button">Click for more</a>
       </div>
     </div>
   </div>
@@ -32,13 +88,23 @@ body_class: home-page
 <section id="methodology" class="container-fluid">
   <div class="container">
     <div class="row">
-      <div class="col-lg-8 mx-auto">
-        <a href="methodology/">
+      <div class="col-lg-12 mx-auto">
         <h2>Methodology</h2>
         <p class="lead">
-        Our extensive consumer research proved to be extremely fruitful as it provided us with a clear picture of
+        We understood that a successful solution would need a thorough understanding of the domain and to enable this, our team did extensive research to map out & understand the food delivery ecosystem, the key players, the influencers and the overall trends going forward. We approached this from four different perspectives: food consumer, food delivery platform, food producer and packaging producer. Overall, we followed the process shown below.
         </p>
-        </a>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-lg-12 mx-auto">
+        process image here
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-lg-10 mx-auto">
+      </div>
+      <div class="col-lg-2 mx-auto">
+        <a class="btn btn-primary" href="methodology" role="button">Click for more</a>
       </div>
     </div>
   </div>
@@ -47,11 +113,31 @@ body_class: home-page
 <section id="findings" class="container-fluid">
   <div class="container">
     <div class="row">
-      <div class="col-lg-8 mx-auto">
+      <div class="col-lg-12 mx-auto">
         <a href="findings/">
         <h2>Findings</h2>
-        <p class="lead">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vero odio fugiat voluptatem dolor, provident officiis, id iusto! Obcaecati incidunt, qui nihil beatae magnam et repudiandae ipsa exercitationem, in, quo totam.</p>
+        <p class="lead">By integrating direct insights from consumers and combining that with key information gleaned from food delivery conferences, restaurant tours, interactions with representatives from delivery companies and even lots of video observations of the delivery process, we were able to craft a comprehensive understanding of the ecosystem. The key outcome of this understanding is presented in the diagram below which features the main industry stakeholders and their interconnections.</p>
         </a>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-lg-12 mx-auto">
+        ecosystem diagram here
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-lg-6 mx-auto">
+        <a class="btn btn-primary btn-lg" href="findings/consumer" role="button">Consumer findings</a>
+      </div>
+      <div class="col-lg-6 mx-auto">
+        <a class="btn btn-primary btn-lg" href="findings/industry" role="button">Industry findings</a>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-lg-10 mx-auto">
+      </div>
+      <div class="col-lg-2 mx-auto">
+        <a class="btn btn-primary" href="findings" role="button">Click for more</a>
       </div>
     </div>
   </div>
@@ -60,11 +146,23 @@ body_class: home-page
 <section id="concepts"  class="container-fluid">
   <div class="container">
     <div class="row">
-      <div class="col-lg-8 mx-auto">
+      <div class="col-lg-12 mx-auto">
         <a href="concepts/">
         <h2>Concepts</h2>
-        <p class="lead">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut optio velit inventore, expedita quo laboriosam possimus ea consequatur vitae, doloribus consequuntur ex. Nemo assumenda laborum vel, labore ut velit dignissimos.</p>
+        <p class="lead">This overall understanding of the ecosystem, combined with our insights gathered from the various players, allows us to present this potential roadmap for innovation going forward. We believe packaging alone isn’t enough for Huhtamaki to become a player in this space and thus we have shared a range of situations where they can add value.</p>
         </a>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-lg-12 mx-auto">
+        solution diagram with links here
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-lg-10 mx-auto">
+      </div>
+      <div class="col-lg-2 mx-auto">
+        <a class="btn btn-primary" href="concepts" role="button">Click for more</a>
       </div>
     </div>
   </div>
