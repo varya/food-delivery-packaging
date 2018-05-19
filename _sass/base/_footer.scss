@@ -2,7 +2,7 @@
 .site-footer {
   @extend %clearfix;
   padding: $base-spacing 0;
-  text-align: center;
+  color: $white-color;
 
   .container {
     padding-top: $base-spacing;
@@ -15,8 +15,20 @@
     float: left;
   }
 
+  a {
+    color: $white-color;
+  }
+
   .social {
     float: right;
+  }
+
+  .sitemap {
+    &__item {
+      &--sub {
+        margin-left: 1em;
+      }
+    }
   }
 }
 
@@ -41,14 +53,5 @@
 
   .icon {
     font-size: 1.2rem;
-  }
-}
-
-.home-page {
-  .site-footer p {
-    color: darken($white-color, 25%);
-  }
-  .site-footer a {
-    color: $light-blue-color;
   }
 }

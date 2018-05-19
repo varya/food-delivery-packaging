@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Findings
+title: Consumer findings
 permalink: /findings/consumer/
 body_class: findings-consumer-page
 ---

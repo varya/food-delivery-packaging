@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Findings
+title: Industry findings
 permalink: /findings/industry/
 body_class: findings-industry-page
 ---

@@ -1,5 +1,36 @@
+{% assign pages_list = site.pages | sort: 'position' %}
+{% assign group = 'navigation' %}
+
 <footer class="site-footer">
   <div class="container">
+    <ul class="sitemap">
+        {% for node in pages_list %}
+        {% if group == null or group == node.group %}
+          {% assign page_href = node.url | prepend: site.baseurl %}
+          {% if page.url == node.url %}
+            <li class="sitemap__item active">
+              <a href="{{ page_href }}" class="active">{{node.title}}</a>
+            </li>
+          {% else %}
+            <li class="sitemap__item"><a href="{{ page_href }}">{{node.title}}</a></li>
+          {% endif %}
+          {% for subnode in pages_list %}
+          {% if subnode.url contains node.url and subnode.url != node.url %}
+          {% assign page_href = subnode.url | prepend: site.baseurl %}
+            {% if page.url == node.url %}
+              <li class="sitemap__item sitemap__item--sub active">
+                <a href="{{ page_href }}" class="active">{{subnode.title}}</a>
+              </li>
+            {% else %}
+              <li class="sitemap__item sitemap__item--sub"><a href="{{ page_href }}">{{subnode.title}}</a></li>
+            {% endif %}
+          {% endif %}
+          {% endfor %}
+        {% endif %}
+      {% endfor %}
+      {% assign pages_list = nil %}
+      {% assign group = nil %}
+    </ul>
     <p>
       <small>&copy;{{ site.time | date: '%Y' }} All rights reserved. Made with <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> and ♥</small>
     </p>
