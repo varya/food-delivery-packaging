@@ -4,11 +4,11 @@
 {% assign page_href = '/' | prepend: site.baseurl %}
 {% endif %}
 {% if page.url == node.url %}
-<li>
-  <a href="{{ page_href }}" class="active">Home</a>
+<li class="nav-item active">
+  <a href="{{ page_href }}" class="nav-link active">Home</a>
 </li>
 {% else %}
-<li><a href="{{ page_href }}">Home</a></li>
+<li class="nav-item"><a class="nav-link" href="{{ page_href }}">Home</a></li>
 {% endif %}
 
 {% for node in pages_list %}
@@ -20,11 +20,11 @@
       {% assign page_href = node.url | prepend: site.baseurl %}
     {% endif %}
     {% if page.url == node.url %}
-      <li class="active">
-        <a href="{{ page_href }}" class="active">{{node.title}}</a>
+      <li class="nav-item active">
+        <a href="{{ page_href }}" class="nav-link active">{{node.title}}</a>
       </li>
     {% else %}
-      <li><a href="{{ page_href }}">{{node.title}}</a></li>
+      <li class="nav-item"><a class="nav-link" href="{{ page_href }}">{{node.title}}</a></li>
     {% endif %}
   {% endif %}
 {% endfor %}

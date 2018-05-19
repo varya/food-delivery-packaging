@@ -8,9 +8,9 @@ body_class: home-page
 ---
 <header class="container-fluid text-white">
   <div class="container text-center">
-      <object type="image/svg+xml" data="assets/pictures/huhtamaki-logo.svg" class="huhtamaki-logo"></object>
 
-      <h2 class="intro-subtitle">Future solutions for food packaging</h2>
+      <h2 class="intro-subtitle">Welcome to the project report website for this Aalto student team’s IDBM Industry Project done for Huhtamaki
+      </h2>
   </div>
 </header>
 

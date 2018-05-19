@@ -72,6 +72,7 @@ body.home-intro {
   font-size: 1.2em;
   font-family: $base-font-family;
   font-weight: $font-weight-light;
+  color: $primary-color;
 
   @include media($min-tablet-large) {
     font-size: 1.6em;
