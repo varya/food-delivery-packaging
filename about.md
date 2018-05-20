@@ -181,7 +181,7 @@ We were to consider the needs of mature markets like those in Europe and America
 
 Our overall project plan was as follows.
 
-INSERT PLAN (from where?)
+<object type="image/svg+xml" data="../assets/pictures/schemes/timeline.svg" class="timeline"></object>
 
 </div>
 </section>
