@@ -69,12 +69,12 @@ body.home-intro {
 
 .intro-subtitle {
   margin-top: $small-spacing;
-  font-size: 1.2em;
+  font-size: 26px;
   font-family: $base-font-family;
   font-weight: $font-weight-light;
   color: $primary-color;
 
   @include media($min-tablet-large) {
-    font-size: 1.6em;
+    font-size: 46px;
   }
 }

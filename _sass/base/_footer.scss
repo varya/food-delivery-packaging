@@ -1,8 +1,9 @@
 
 .site-footer {
   @extend %clearfix;
-  padding: $base-spacing 0;
-  color: $white-color;
+  color: $primary-color;
+  background-color: $white-color;
+  padding-bottom: 50px;
 
   .container {
     padding-top: $base-spacing;
@@ -16,7 +17,7 @@
   }
 
   a {
-    color: $white-color;
+    color: $primary-color;
   }
 
   .social {

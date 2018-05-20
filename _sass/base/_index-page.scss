@@ -6,13 +6,18 @@
         padding-top: 100px;
         color: $dark-gray-color;
         font-size: 28px;
+    }
 
-        .huhtamaki-logo {
-            width: 500px;
-        }
+    .logo {
+        display: inline-block;
 
-        .aalto-logo {
+        &--huhtamaki {
             width: 200px;
+        }
+        &--aalto {
+            width: 50px;
+            margin-left: 50px;
+            margin-bottom: 2px;
         }
     }
 
@@ -30,10 +35,10 @@
         background-color: $violet-color;
     }
     #findings {
-        background-color: $orange-color;
+        background-color: $tiffany-color;
     }
     #concepts {
-        background-color: $light-green-color;
+        background-color: $violet-color;
     }
 
     section,
@@ -53,9 +58,14 @@
         }
     }
 
-    .process {
+    .process, 
+    .ecosystem,
+    .solution {
         width: 100%;
         margin: 2em 0;
+    }
+    .solution {
+        margin: 0;
     }
 
 }

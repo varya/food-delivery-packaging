@@ -7,9 +7,9 @@ body_class: home-page
 
 ---
 <header class="container-fluid text-white">
-  <div class="container text-center">
+  <div class="container text-center align-middle">
 
-      <h2 class="intro-subtitle">Welcome to the project report website for this Aalto student team’s IDBM Industry Project done for Huhtamaki
+      <h2 class="intro-subtitle align-middle">Welcome to the project report website for this Aalto student team’s IDBM Industry Project done for Huhtamaki
       </h2>
   </div>
 </header>
@@ -17,15 +17,19 @@ body_class: home-page
 <section id="about" class="container-fluid">
   <div class="container">
     <div class="row">
-      <div class="col-lg-8 mx-auto">
+      <div class="col-lg-6 mx-auto align-text-bottom">
         <h2>About this project</h2>
+      </div>
+      <div class="col-lg-6 mx-auto align-text-bottom text-center">
+        <object type="image/svg+xml" data="assets/pictures/huhtamaki-logo.svg" class="logo logo--huhtamaki"></object>
+        <object type="image/svg+xml" data="assets/pictures/aalto-logo.svg" class="logo logo--aalto"></object>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-lg-12 mx-auto">
         <p class="lead">
         Huhtamäki are global specialists in packaging for food and drink, dedicated to making every consumer experience enjoyable, consistent, and safe. They approached Aalto University’s Masters Program in International Design Business Management for this student project to help them solve a business & product related problem.
         </p>
-      </div>
-      <div class="col-lg-4 mx-auto">
-        <object type="image/svg+xml" data="assets/pictures/huhtamaki-logo.svg" class="huhtamaki-logo"></object>
-        <object type="image/svg+xml" data="assets/pictures/aalto-logo.svg" class="aalto-logo"></object>
       </div>
     </div>
     <div class="row">
@@ -76,10 +80,8 @@ body_class: home-page
       </div>
     </div>
     <div class="row">
-      <div class="col-lg-10 mx-auto">
-      </div>
-      <div class="col-lg-2 mx-auto">
-        <a class="btn btn-primary" href="about" role="button">Click for more</a>
+      <div class="col-lg-12 mx-auto text-center">
+        <a class="btn btn-outline-light btn-lg" href="about" role="button">Click for more</a>
       </div>
     </div>
   </div>
@@ -97,13 +99,12 @@ body_class: home-page
     </div>
     <div class="row">
       <div class="col-lg-12 mx-auto">
-        <object type="image/svg+xml" data="assets/pictures/schemes/process.svg" class="process"></object>      </div>
+        <object type="image/svg+xml" data="assets/pictures/schemes/process.svg" class="process"></object>
+      </div>
     </div>
     <div class="row">
-      <div class="col-lg-10 mx-auto">
-      </div>
-      <div class="col-lg-2 mx-auto">
-        <a class="btn btn-primary" href="methodology" role="button">Click for more</a>
+      <div class="col-lg-12 mx-auto text-center">
+        <a class="btn btn-outline-light btn-lg" href="methodology" role="button">Click for more</a>
       </div>
     </div>
   </div>
@@ -113,30 +114,23 @@ body_class: home-page
   <div class="container">
     <div class="row">
       <div class="col-lg-12 mx-auto">
-        <a href="findings/">
         <h2>Findings</h2>
         <p class="lead">By integrating direct insights from consumers and combining that with key information gleaned from food delivery conferences, restaurant tours, interactions with representatives from delivery companies and even lots of video observations of the delivery process, we were able to craft a comprehensive understanding of the ecosystem. The key outcome of this understanding is presented in the diagram below which features the main industry stakeholders and their interconnections.</p>
-        </a>
+        <p>
+          TODO: Links to <a href="findings/consumer">consumer findings</a> and <a href="findings/industry">industry findings</a> should be part of text.
+        </p>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-lg-8 mx-auto">
+      </div>
+      <div class="col-lg-4 mx-auto text-center">
+        <a class="btn btn-outline-light btn-lg" href="findings" role="button">Click for more</a>
       </div>
     </div>
     <div class="row">
       <div class="col-lg-12 mx-auto">
-        ecosystem diagram here
-      </div>
-    </div>
-    <div class="row">
-      <div class="col-lg-6 mx-auto">
-        <a class="btn btn-primary btn-lg" href="findings/consumer" role="button">Consumer findings</a>
-      </div>
-      <div class="col-lg-6 mx-auto">
-        <a class="btn btn-primary btn-lg" href="findings/industry" role="button">Industry findings</a>
-      </div>
-    </div>
-    <div class="row">
-      <div class="col-lg-10 mx-auto">
-      </div>
-      <div class="col-lg-2 mx-auto">
-        <a class="btn btn-primary" href="findings" role="button">Click for more</a>
+        <object type="image/svg+xml" data="assets/pictures/schemes/ecosystem.svg" class="ecosystem"></object>
       </div>
     </div>
   </div>
@@ -145,23 +139,15 @@ body_class: home-page
 <section id="concepts"  class="container-fluid">
   <div class="container">
     <div class="row">
-      <div class="col-lg-12 mx-auto">
-        <a href="concepts/">
+      <div class="col-lg-6 mx-auto">
         <h2>Concepts</h2>
         <p class="lead">This overall understanding of the ecosystem, combined with our insights gathered from the various players, allows us to present this potential roadmap for innovation going forward. We believe packaging alone isn’t enough for Huhtamaki to become a player in this space and thus we have shared a range of situations where they can add value.</p>
-        </a>
+        <p class="text-center">
+          <a class="btn btn-outline-light btn-lg" href="concepts" role="button">Click for more</a>
+        </p>
       </div>
-    </div>
-    <div class="row">
-      <div class="col-lg-12 mx-auto">
-        solution diagram with links here
-      </div>
-    </div>
-    <div class="row">
-      <div class="col-lg-10 mx-auto">
-      </div>
-      <div class="col-lg-2 mx-auto">
-        <a class="btn btn-primary" href="concepts" role="button">Click for more</a>
+      <div class="col-lg-6 mx-auto">
+        <object type="image/svg+xml" data="assets/pictures/schemes/solution.svg" class="solution"></object>
       </div>
     </div>
   </div>
