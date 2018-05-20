@@ -1,6 +1,7 @@
 ---
 layout: page
 title: About
+long_title: About this project
 permalink: /about/
 body_class: about-page
 
@@ -8,46 +9,83 @@ group: navigation
 position: 1
 ---
 
+<section class="container-fluid">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-12 mx-auto">
+        <p class="lead">
+        The food delivery ecosystem is huge. According to data from Statista, the market is currently valued at over 120 billion Euros and is growing at a rate of over 30% annually. Huhtamaki recognized the huge opportunity in this space but needed to understand it properly and then find a niche within which they could become a player in this space. This was the primary purpose.
+        </p>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-lg-12 mx-auto text-center">
+        <h3>The team</h3>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-lg-3 mx-auto">
+        <div class="card card--team" style="width: 100%">
+          <img class="card-img-top rounded-circle" src="../assets/pictures/team/juho.jpg" alt="Card image cap">
+          <div class="card-body">
+            <h5 class="card-title">Juho Viironen</h5>
+            <p>
+              <a
+                class="team-card__linkedin"
+                href="https://www.linkedin.com/in/juho-viironen-aa650439/">
+                /in/juho-viironen-aa650439/
+              </a>
+            </p>
+          </div>
+         </div>
+      </div>
+      <div class="col-lg-3 mx-auto">
+        <div class="card card--team" style="width: 100%">
+          <img class="card-img-top rounded-circle" src="../assets/pictures/team/varya.jpg" alt="Card image cap">
+          <div class="card-body">
+            <h5 class="card-title">Varya Stepanova</h5>
+            <p>
+              <a
+                class="team-card__linkedin"
+                href="https://www.linkedin.com/in/varyastepanova/">
+                /in/varyastepanova/
+              </a>
+            </p>
+          </div>
+         </div>
+      </div>
+      <div class="col-lg-3 mx-auto">
+        <div class="card card--team" style="width: 100%">
+          <img class="card-img-top rounded-circle" src="../assets/pictures/team/adi.jpg" alt="Card image cap">
+          <div class="card-body">
+            <h5 class="card-title">Adithya Varadarajan</h5>
+            <a
+                class="team-card__linkedin"
+                href="https://www.linkedin.com/in/adithyadesign/">
+                /in/adithyadesign/
+            </a>
+          </div>
+         </div>
+      </div>
+      <div class="col-lg-3 mx-auto">
+        <div class="card card--team" style="width: 100%">
+          <img class="card-img-top rounded-circle" src="../assets/pictures/team/jialai.jpg" alt="Card image cap">
+          <div class="card-body">
+            <h5 class="card-title">Jialai Qian</h5>
+            <a
+                class="team-card__linkedin"
+                href="https://www.linkedin.com/in/jialai-qian-a30877154/">
+                /in/jialai-qian-a30877154/
+            </a>
+          </div>
+         </div>
+      </div>
+    </div>
+  </div>
+</section>
 
-The food delivery ecosystem is huge. According to data from Statista, the market is currently valued at over 120 billion Euros and is growing at a rate of over 30% annually. Huhtamaki recognized the huge opportunity in this space but needed to understand it properly and then find a niche within which they could become a player in this space. This was the primary purpose.
-
-## The Aalto Team
-
-<div class="team team--alto">
-
-<div class="team-card" markdown="1">
-
-![](../assets/pictures/team/juho.jpg){: .team-card__image}
-#### Juho Viironen
-[/in/juho-viironen-aa650439/](https://www.linkedin.com/in/juho-viironen-aa650439/){: .team-card__linkedin}
-
-</div>
-
-<div class="team-card" markdown="1">
-
-![](../assets/pictures/team/varya.jpg){: .team-card__image}
-#### Varya Stepanova
-[/in/varyastepanova/](https://www.linkedin.com/in/varyastepanova/){: .team-card__linkedin}
-
-</div>
-
-<div class="team-card" markdown="1">
-
-![](../assets/pictures/team/adi.jpg){: .team-card__image}
-#### Adithya Varadarajan
-[/in/adithyadesign/](https://www.linkedin.com/in/adithyadesign/){: .team-card__linkedin}
-
-</div>
-
-<div class="team-card" markdown="1">
-
-![](../assets/pictures/team/jialai.jpg){: .team-card__image}
-#### Jialai Qian
-[/in/jialai-qian-a30877154/](https://www.linkedin.com/in/jialai-qian-a30877154/){: .team-card__linkedin}
-
-</div>
-
-</div>
+<section class="container-fluid" markdown="1">
+  <div class="container" markdown="1">
 
 ## Huhtamaki’s Perspective
 
@@ -61,38 +99,74 @@ Huhtamaki operated in a primarily product focused approach but were identifying 
 
 The other aspect the we learned was how, until now, they have a good understanding of customers and this has built a great reputation as a packaging converter who executes on designs provided by customers. Going forward, Huhtamaki wants to increase their relevance and add value to the customers as well. In addition, they had never really done much work with the consumer needs in mind and this project was an opportunity to change that.
 
-## The Huhtamaki Team
-
-<div class="team team--huhtamaki">
-
-<div class="team-card" markdown="1">
-
-![](../assets/pictures/team/default.png){: .team-card__image}
-#### Tom Anderzén
-##### Vice President Development and Strategy
-[/in/tomanderzen/](https://www.linkedin.com/in/tomanderzen/){: .team-card__linkedin}
-
+<div class="row">
+<div class="col-lg-12 mx-auto text-center">
+<h3>The Huhtamaki Team</h3>
+</div>
+</div>
+<div class="row">
+<div class="col-lg-3 mx-auto">
+<div class="card card--team" style="width: 100%">
+    <img class="card-img-top rounded-circle" src="../assets/pictures/team/tom.jpg" alt="Card image cap">
+    <div class="card-body">
+    <h5 class="card-title">Tom Anderzén</h5>
+    <h6 class="card-subtitle">Vice President Development and Strategy</h6>
+    <a class="team-card__email"
+      href="mailto:tom.anderzen@huhtamaki.com">
+      tom.anderzen@huhtamaki.com
+    </a>
+    <a
+    class="team-card__linkedin"
+    href="https://www.linkedin.com/in/tomanderzen/">
+    /in/tomanderzen/
+    </a>
+    </div>
+    </div>
+</div>
+<div class="col-lg-3 mx-auto">
+<div class="card card--team" style="width: 100%">
+    <img class="card-img-top rounded-circle" src="../assets/pictures/team/mats.jpg" alt="Card image cap">
+    <div class="card-body">
+    <h5 class="card-title">Mats Hägerström</h5>
+    <h6 class="card-subtitle">Head of Business Development</h6>
+    <a class="team-card__email"
+      href="mailto:mats.hagerstrom@huhtamaki.com">
+    mats.hagerstrom@huhtamaki.com
+    </a>
+    <a
+    class="team-card__linkedin"
+    href="https://fi.linkedin.com/in/mats-h%C3%A4gerstr%C3%B6m-b53906b/">
+    /in/mats-hägerström-b53906b/
+    </a>
+    </div>
+    </div>
+</div>
+<div class="col-lg-3 mx-auto">
+<div class="card card--team" style="width: 100%">
+    <img class="card-img-top rounded-circle" src="../assets/pictures/team/iina.jpg" alt="Card image cap">
+    <div class="card-body">
+    <h5 class="card-title">Iina-Karoliina Välilä</h5>
+    <h6 class="card-subtitle">Designer</h6>
+    <a class="team-card__email"
+      href="mailto:iina.valila@huhtamaki.com">
+      iina.valila@huhtamaki.com
+    </a>
+    <a
+        class="team-card__linkedin"
+        href="https://www.linkedin.com/in/iina-karoliina-v%C3%A4lil%C3%A4-82280267/">
+        /in/iina-karoliina-välilä-82280267/
+    </a>
+    </div>
+    </div>
+</div>
 </div>
 
-<div class="team-card" markdown="1">
-
-![](../assets/pictures/team/default.png){: .team-card__image}
-#### Mats Hägerström 
-##### Head of Business Development 
-[/in/mats-hägerström-b53906b/](https://www.linkedin.com/in/mats-h%C3%A4gerstr%C3%B6m-b53906b/){: .team-card__linkedin}
 
 </div>
+</section>
 
-<div class="team-card" markdown="1">
-
-![](../assets/pictures/team/default.png){: .team-card__image}
-#### Iina-Karoliina Välilä
-##### Designer
-[/in/iina-karoliina-välilä-82280267/](https://www.linkedin.com/in/iina-karoliina-v%C3%A4lil%C3%A4-82280267/){: .team-card__linkedin}
-
-</div>
-
-</div>
+<section class="container-fluid" markdown="1">
+  <div class="container" markdown="1">
 
 ## Project Scope & Overall Plan
 
@@ -109,4 +183,7 @@ Our overall project plan was as follows.
 
 INSERT PLAN (from where?)
 
-<div class="inner-gallery" data-gallery="test"></div>
+</div>
+</section>
+
+<!--<div class="inner-gallery" data-gallery="test"></div>-->
