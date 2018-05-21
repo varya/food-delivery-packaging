@@ -1,0 +1,48 @@
+.findings-page {
+
+  a.btn {
+      text-decoration: none;
+  }
+
+  .image--max {
+      width: 80%;
+      margin: 0 10%;
+  }
+
+  .ecosystem {
+      width: 100%;
+      margin: 2em 0;
+  }
+
+  .highlighted-list {
+
+    width: 50%;
+    min-width: 300px;
+    list-style: decimal inside none;
+    margin: 1em 0 2em;
+
+      li {
+          color: $white-color;
+          font-size: 1.5em;
+          padding: 0.25em 0.5em;
+          border-radius: 0.25em;
+          margin: 0.25em 0;
+          padding-left: 1.5em;
+
+          &:before {
+              content: '#';
+              margin-left: -1.5em;
+              margin-right: 1em;
+
+          }
+      }
+
+      li:nth-child(even) {
+        background-color: $light-green-color;
+      }
+      li:nth-child(odd) {
+        background-color: $light-blue-color;
+      }
+  }
+
+}

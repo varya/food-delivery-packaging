@@ -1,0 +1,19 @@
+.gallery-image-wrapper {
+
+    height: 300px;
+    width: 32%;
+    display: inline-block;
+    margin-right: 1.5%;
+    position: relative;
+    text-align: center;
+
+    &:last-of-type {
+        margin-right: 0;
+    }
+
+}
+.gallery-image {
+    margin: auto;
+    max-height: 100%;
+    max-width: 100%;
+  }
