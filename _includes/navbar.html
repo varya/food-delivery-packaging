@@ -13,7 +13,38 @@ data-spy="affix" data-offset-top="197"
     </button>
     <div class="collapse navbar-collapse" id="navbarText">
       <ul class="navbar-nav mr-auto">
-          {% include pages-list.html %}
+      {% for item in site.menus.header %}
+        {% assign page_href = item.url | prepend: site.baseurl %}
+        {% assign page_title = item.title %}
+        {% if item.children %}
+          <li class="nav-item dropdown menu-item-{{ loop.index }}">
+            <a
+              class="nav-link dropdown-toggle"
+              href="{{ page_href }}"
+              id="menu-{{ item.identifier }}"
+              role="button"
+              data-toggle="dropdown"
+              aria-haspopup="true"
+              aria-expanded="false"
+            >{{ page_title }}</a>
+            {% if item.children %}
+              <div class="dropdown-menu" aria-labelledby="menu-{{ item.identifier }}">
+              {% assign submenu = item.children | sort: 'url' | sort: 'position' %}
+              <a class="dropdown-item" href="{{ page_href }}">{{ page_title }}</a>
+              <div class="dropdown-divider"></div>
+              {% for item in submenu %}
+                {% assign page_href = item.url | prepend: site.baseurl %}
+                <a class="dropdown-item" href="{{ page_href }}">{{ item.title }}</a>
+              {% endfor %}
+              </div>
+            {% endif %}
+          </li>
+        {% else %}
+          <li class="nav-item menu-item-{{ loop.index }}">
+            <a class="nav-link" href="{{ page_href }}">{{ item.title }}</a>
+          </li>
+        {% endif %}
+      {% endfor %}
       </ul>
     </div>
   </div>

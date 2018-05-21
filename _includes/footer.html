@@ -5,33 +5,29 @@
   <div class="container">
     <div class="row">
       <div class="col-lg-12 mx-auto">
-        <ul class="sitemap">
-        {% for node in pages_list %}
-        {% if group == null or group == node.group %}
-          {% assign page_href = node.url | prepend: site.baseurl %}
-          {% if page.url == node.url %}
-            <li class="sitemap__item active">
-              <a href="{{ page_href }}" class="active">{{node.title}}</a>
-            </li>
-          {% else %}
-            <li class="sitemap__item"><a href="{{ page_href }}">{{node.title}}</a></li>
-          {% endif %}
-          {% for subnode in pages_list %}
-          {% if subnode.url contains node.url and subnode.url != node.url %}
-          {% assign page_href = subnode.url | prepend: site.baseurl %}
-            {% if page.url == node.url %}
-              <li class="sitemap__item sitemap__item--sub active">
-                <a href="{{ page_href }}" class="active">{{subnode.title}}</a>
-              </li>
-            {% else %}
-              <li class="sitemap__item sitemap__item--sub"><a href="{{ page_href }}">{{subnode.title}}</a></li>
+
+
+      <ul class="sitemap">
+        {% for item in site.menus.header %}
+          {% assign page_href = item.url | prepend: site.baseurl %}
+          {% assign page_title = item.title %}
+          <li class="sitemap__item menu-item-{{ loop.index }}">
+            <a
+              href="{{ page_href }}"
+            >{{ page_title }}</a>
+            {% if item.children %}
+              <ul>
+              {% assign submenu = item.children | sort: 'url' | sort: 'position' %}
+              {% for item in submenu %}
+                {% assign page_href = item.url | prepend: site.baseurl %}
+                <li class="sitemap__item sitemap__item--sub">
+                  <a href="{{ page_href }}">{{ item.title }}</a>
+                </li>
+              {% endfor %}
+              </ul>
             {% endif %}
-          {% endif %}
-          {% endfor %}
-        {% endif %}
-      {% endfor %}
-      {% assign pages_list = nil %}
-      {% assign group = nil %}
+          </li>
+        {% endfor %}
         </ul>
         <p>
             TODO: ending words, copyright?

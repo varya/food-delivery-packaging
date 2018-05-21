@@ -35,6 +35,7 @@ theme: minima
 plugins:
   - jekyll-feed
   - jekyll-gallery-generator
+  - jekyll-menus
 
 gallery:
   dir: photos               # Path to the gallery
@@ -52,6 +53,7 @@ gallery:
     process:
       best_image: IMG_3770.jpg  # The image to show on the gallery index page. Defaults to the last image.
       lightbox: true
+
 
 include: ['.htaccess', '.htpasswd']
 # Exclude from processing.
