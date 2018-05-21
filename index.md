@@ -9,8 +9,9 @@ body_class: home-page
 <header class="container-fluid text-white">
   <div class="container text-center align-middle">
 
-      <h2 class="intro-subtitle align-middle">Welcome to the project report website for this Aalto student team’s IDBM Industry Project done for Huhtamaki
-      </h2>
+    <h2 class="intro-subtitle align-middle">
+      Understanding the Global Food Delivery Ecosystem and Providing Future Focused Solutions
+    </h2>
   </div>
 </header>
 
