@@ -154,26 +154,6 @@
     width: 49%;
   }
 
-  .deliveroo {
-    transform: skew(7deg, 3deg);
-    box-shadow: 
-      0 0 0 2px $tiffany-color,
-      0 0 0 3px #FFF;
-  }
-  .foodora {
-    float: right;
-    transform: skew(-6deg, -4deg);
-    box-shadow: 
-      0 0 0 2px $pink-color,
-      0 0 0 3px #FFF;
-  }
-  .wolt {
-    transform: skew(5deg, 2deg);
-    box-shadow: 
-      0 0 0 2px $light-green-color,
-      0 0 0 3px #FFF;
-  }
-
 }
 
 .ideation-page {

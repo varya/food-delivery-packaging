@@ -1,0 +1,32 @@
+.methodology-page {
+
+    .process {
+        width: 100%;
+        margin: 1em 0 2em;
+    }
+
+    .delivery-hero {
+        width: 50%;
+    }
+
+    .deliveroo {
+        transform: skew(7deg, 3deg);
+        box-shadow: 
+          0 0 0 2px $tiffany-color,
+          0 0 0 3px #FFF;
+      }
+      .foodora {
+        float: right;
+        transform: skew(-6deg, -4deg);
+        box-shadow: 
+          0 0 0 2px $pink-color,
+          0 0 0 3px #FFF;
+      }
+      .wolt {
+        transform: skew(5deg, 2deg);
+        box-shadow: 
+          0 0 0 2px $light-green-color,
+          0 0 0 3px #FFF;
+      }
+
+}

@@ -17,7 +17,7 @@
             >{{ page_title }}</a>
             {% if item.children %}
               <ul>
-              {% assign submenu = item.children | sort: 'url' | sort: 'position' %}
+              {% assign submenu = item.children | sort: 'position' %}
               {% for item in submenu %}
                 {% assign page_href = item.url | prepend: site.baseurl %}
                 <li class="sitemap__item sitemap__item--sub">
