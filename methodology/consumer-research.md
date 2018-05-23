@@ -18,7 +18,7 @@ To accomplish this we first conducted **ethnographic field research** where we r
 
 By observing consumers as they ordered and consumed a food delivery meal, we got a first hand view of the food delivery process, their behavior and potential issues that they encountered. The videos helped us identify situations where there were mismatches between what people said they did and what they actually did, and it helped us see if there were things that are taken for granted that don’t normally come up in discussions. This research was done in very different environments and in differing situations - ranging from a family ordering a shared meal in India or a couple ordering individual dishes in Finland.
 
-<div class="inner-gallery text+center" data-gallery="consumer-research"></div>
+<div class="inner-gallery text-center" data-gallery="consumer-research"></div>
 
 To supplement our ethnographic observations and add to the richness of our consumer insights, we did further consumer research with 69 people from across 30 countries about their food delivery experiences and packaging preferences. This research was done in the form of 1 on 1 interviews, conducted either in person or virtually via Skype.
 
