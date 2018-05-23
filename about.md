@@ -14,7 +14,8 @@ position: 1
     <div class="row">
       <div class="col-lg-12 mx-auto">
         <p class="lead">
-        The food delivery ecosystem is huge. According to data from Statista, the market is currently valued at over 120 billion Euros and is growing at a rate of over 30% annually. Huhtamaki recognized the huge opportunity in this space but needed to understand it properly and then find a niche within which they could become a player in this space. This was the primary purpose.
+Huhtamaki recognized that there are underlying megatrends that are driving the world we live in - increasing urban migration combined with the increased proliferation of smartphones to affect a range of significant lifestyle changes. One of these changes is evident from the rapid growth in the already huge food delivery business with current global revenues of over 121 billion Euros growing at a rate at over 30% a year according to <a href="https://www.statista.com/outlook/374/100/food-delivery/worldwide#market-revenue" target="_blank">Statista</a>. Huhtamaki’s key strategic intent from this project was to understand this domain properly and then find a niche within which they could become a player in this space.
+
         </p>
       </div>
     </div>
