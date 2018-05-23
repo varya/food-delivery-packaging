@@ -2,10 +2,16 @@ body {
   position: relative;
   height: auto;
 }
-.affix {
-}
 .navbar {
   margin-bottom: 0px;
+
+  li {
+    margin-right: 1em;
+
+    &:last-of-type {
+      margin-right: 0;
+    }
+  }
 }
 .affix ~ .container-fluid {
  position: relative;
