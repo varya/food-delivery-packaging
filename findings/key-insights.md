@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Industry findings
-permalink: /findings/industry/
+title: Key insights
+permalink: /findings/key-insights/
 body_class: findings-page
 menus:
   findings:
-    weight: 2
+    weight: 4
 ---
 
 <section class="container-fluid" markdown="1">
