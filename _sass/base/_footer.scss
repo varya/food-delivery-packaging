@@ -2,8 +2,12 @@
 .site-footer {
   @extend %clearfix;
   color: $primary-color;
-  background-color: $white-color;
+  background-color: $primary-color;
   padding-bottom: 50px;
+
+  .home-page & {
+    background-color: $white-color;
+  }
 
   .container {
     padding-top: $base-spacing;
@@ -12,12 +16,20 @@
 
   p {
     margin-bottom: 0;
-    color: $medium-gray-color;
+    color: $light-gray-color;
     float: left;
+
+    .home-page & {
+      color: $dark-gray-color;
+    }
   }
 
   a {
-    color: $primary-color;
+    color: $white-color;
+
+    .home-page & {
+      color: $primary-color;
+    }
   }
 
   .social {
