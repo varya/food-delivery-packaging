@@ -4,7 +4,8 @@
     $('.inner-gallery').each(function(i, gal) {
         var $gal = $(gal);
         var galleryId = $gal.data('gallery');
-        $.get('../photos/' + galleryId + '', function(data) {
+        var url = siteBaseUrl + '/photos/' + galleryId + '/';
+        $.get(url, function(data) {
             $gal.html(data);
         })
     })
