@@ -1,25 +1,13 @@
 ---
 layout: empty
 ---
-<link href="{{ "/assets/css/ninja-slider.css" | prepend: site.baseurl }}" rel="stylesheet" type="text/css" />
-<script src="{{ "/assets/js/ninja-slider.js" | prepend: site.baseurl }}" type="text/javascript"></script>
+
 <script>
-    function lightbox(idx) {
-        /*show the slider's wrapper: this is required when the transitionType has been set to "slide" in the ninja-slider.js*/
-        var ninjaSldr = document.getElementById("ninja-slider");
-        ninjaSldr.parentNode.style.display = "block";
-
-        nslider.init(idx);
-
-        var fsBtn = document.getElementById("fsBtn");
-        fsBtn.click();
-    }
-
-    function fsIconClick(isFullscreen, ninjaSldr) { /*fsIconClick is the default event handler of the fullscreen button*/
-        if (isFullscreen) {
-            ninjaSldr.parentNode.style.display = "none";
-        }
-    }
+lightbox.option({
+      'resizeDuration': 200,
+      'wrapAround': true,
+      'showImageNumberLabel': true
+    })
 </script>
 <style>
     header {display:block;padding:60px 0 10px;background-color:#191919;text-align:center;}
@@ -51,7 +39,7 @@ layout: empty
 
  <!--start-->
  <div style="display:none;">
-    <div id="ninja-slider">
+    <div class="ninja-slider-{{ page.gallery }}">
         <div class="slider-inner">
             <ul>
                 {% for image in page.images %}
@@ -67,6 +55,11 @@ layout: empty
 
 {% for image in page.images %}
     <div class="gallery-image-wrapper">
-        <img class="gallery-image" src="{{ page.dir | prepend: site.baseurl  }}thumbs/{{ image.name }}"  onclick="lightbox({{ forloop.index0 }})" />
+        <a href="{{ page.dir | prepend: site.baseurl  }}{{ image.name }}"
+        data-lightbox="{{ image.name }}">
+        <img class="gallery-image"
+        src="{{ page.dir | prepend: site.baseurl  }}thumbs/{{ image.name }}" 
+       />
+        </a>
     </div>
 {% endfor %}

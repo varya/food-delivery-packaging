@@ -55,6 +55,10 @@
           width: 100%;
       }
 
+      td.model__no-pad {
+          padding-top: 0;
+      }
+
       td {
         padding: 1em;
         vertical-align: top;
@@ -71,6 +75,10 @@
           border-radius: 0.5em;
           padding: 0.5em 1.5em;
           text-align: center;
+
+          &--wrapper {
+              background-color: $orange-color;
+          }
       }
 
       &__subheader {
@@ -80,6 +88,10 @@
         padding: 0.5em 1.5em;
         text-align: center;
       }
+  }
+
+  .block {
+      margin-bottom: 2em;
   }
 
 }

@@ -17,7 +17,7 @@ After our extensive research of the domain, our team pieced together the ecosyst
 
 After this process, we finally determined that the overall ecosystem around food delivery can be depicted with the below diagram that best describes the players in the ecosystem and how they’re all interconnected. The graphic has been designed in such a way that, depending on the focus and specific businesses, we can represent this map with different layers of information including material flow of packaging, flow of money and key influencers & decision makers in the domain.
 
-This visual representation made it possible to describe businesses of both large and small market players with the focus on how they operate in the packaging domain. Using the map as a framework, Huhtamaki can analyze businesses existing in the market and figure out what they can offer.
+This visual representation made it possible to describe businesses of both large and small market players with the focus on how they operate in the packaging domain. Using the map as a framework, Huhtamaki can analyze businesses existing in the market and figure out what they can offer. For example, the below two images indicate the material flow in the ecosystem (our default consideration) and the flow of money (in green) in the ecosystem respectively.
 
 <object type="image/svg+xml" data="../../assets/pictures/schemes/money-flow.svg" class="money-flow"></object>
 

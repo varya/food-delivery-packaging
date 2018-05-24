@@ -19,7 +19,7 @@ body_class: home-page
   <div class="container">
     <div class="row">
       <div class="col-lg-6 mx-auto align-text-bottom">
-        <h2>About this project</h2>
+        <h2>About the project</h2>
       </div>
       <div class="col-lg-6 mx-auto align-text-bottom text-center">
         <object type="image/svg+xml" data="assets/pictures/huhtamaki-logo.svg" class="logo logo--huhtamaki"></object>
@@ -29,7 +29,7 @@ body_class: home-page
     <div class="row">
       <div class="col-lg-12 mx-auto">
         <p class="lead">
-        Huhtamäki are global specialists in packaging for food and drink, dedicated to making every consumer experience enjoyable, consistent, and safe. They approached Aalto University’s Masters Program in International Design Business Management for this student project to help them solve a business & product related problem.
+        Huhtamäki are global specialists in packaging for food and drink, dedicated to making every consumer experience enjoyable, consistent, and safe. They approached Aalto University’s Masters Program in International Design Business Management for this student project to help them solve a business & product related problem. 
         </p>
       </div>
     </div>
@@ -73,14 +73,6 @@ body_class: home-page
       </div>
     </div>
     <div class="row">
-      <div class="col-lg-12 mx-auto">
-        <h3>The goal</h3>
-        <p>
-        Understanding and visualizing the rapidly growing global Food Delivery Ecosystem and providing future focused solutions for how Huhtamaki can become a player in this ecosystem
-        </p>
-      </div>
-    </div>
-    <div class="row">
       <div class="col-lg-12 mx-auto text-center">
         <a class="btn btn-outline-light btn-lg" href="about" role="button">Click for more</a>
       </div>
@@ -116,9 +108,8 @@ body_class: home-page
     <div class="row">
       <div class="col-lg-12 mx-auto">
         <h2>Findings</h2>
-        <p class="lead">By integrating direct insights from consumers and combining that with key information gleaned from food delivery conferences, restaurant tours, interactions with representatives from delivery companies and even lots of video observations of the delivery process, we were able to craft a comprehensive understanding of the ecosystem. The key outcome of this understanding is presented in the diagram below which features the main industry stakeholders and their interconnections.</p>
-        <p>
-          TODO: Links to <a href="findings/consumer">consumer findings</a> and <a href="findings/industry">industry findings</a> should be part of text.
+        <p class="lead">
+        By integrating <a href="findings/consumer">direct insights from consumers</a> and combining that with <a href="findings/industry">key information gleaned from food delivery conferences, restaurant tours, interactions with representatives from delivery companies and even lots of video observations of the delivery process</a>, we were able to craft a comprehensive understanding of the ecosystem. The key outcome of this understanding is presented in the diagram below which features the main industry stakeholders and their interconnections.
         </p>
       </div>
     </div>
@@ -134,6 +125,7 @@ body_class: home-page
         <object type="image/svg+xml" data="assets/pictures/schemes/ecosystem.svg" class="ecosystem"></object>
       </div>
     </div>
+
   </div>
 </section>
 
@@ -142,7 +134,8 @@ body_class: home-page
     <div class="row">
       <div class="col-lg-6 mx-auto">
         <h2>Concepts</h2>
-        <p class="lead">This overall understanding of the ecosystem, combined with our insights gathered from the various players, allows us to present this potential roadmap for innovation going forward. We believe packaging alone isn’t enough for Huhtamaki to become a player in this space and thus we have shared a range of situations where they can add value.</p>
+        <p class="lead">This overall understanding of the ecosystem, combined with our insights gathered from the various players, allows us to present this potential roadmap for innovation going forward. We believe packaging alone isn’t enough for Huhtamaki to become a player in this space and thus we have shared a range of situations where they can add value. In addition we’ve also provided some thought provoking future directions for food delivery based on our research.</p>
+        <p class="lead">For more details on the various phases of this project, please use the navigation menu at the top of the page.</p>
         <p class="text-center">
           <a class="btn btn-outline-light btn-lg" href="concepts" role="button">Click for more</a>
         </p>

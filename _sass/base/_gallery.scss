@@ -1,5 +1,13 @@
 .inner-gallery {
     font-size: 0;
+    margin-bottom: 50px;
+
+    &--s {
+        .gallery-image-wrapper {
+            width: 23%;
+            height: 150px;
+        }
+    }
 }
 
 .gallery-image-wrapper {
