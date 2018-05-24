@@ -21,7 +21,7 @@ The most influential player in the ecosystem, at least from the perspective of m
 
 #### Consumers Want Faster Delivery for a Reason
 
-For consumers, it was interesting that the most important aspect when ordering for delivery was delivery time and their biggest desire was faster deliveries. This desire was expressed to the extent where several were willing to pay extra if it guaranteed faster delivery. While food is certainly part of the base of [Maslow’s Hierarchy of Needs](https://www.simplypsychology.org/maslow.html), and everyone will obviously be happy getting their food instantly, we believe the **desire for faster delivery stems from issues with packaging**. People don’t want food to arrive faster as much as they want it to arrive warm, fresh, without leaks and in a condition that’s not too different from what they’d find at a restaurant.
+For consumers, it was interesting that the most important aspect when ordering for delivery was delivery time and their biggest desire was faster deliveries. This desire was expressed to the extent where several were willing to pay extra if it guaranteed faster delivery. While food is certainly part of the base of [Maslow’s Hierarchy of Needs](https://www.simplypsychology.org/maslow.html){: target="_blank" }, and everyone will obviously be happy getting their food instantly, we believe the **desire for faster delivery stems from issues with packaging**. People don’t want food to arrive faster as much as they want it to arrive warm, fresh, without leaks and in a condition that’s not too different from what they’d find at a restaurant.
 
 #### Packaging Issues are Mostly Universal
 

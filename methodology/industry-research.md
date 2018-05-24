@@ -14,7 +14,7 @@ menus:
 
 While we had a great picture of the consumer perspective, we knew from our secondary research that the ecosystem has a range of players whom we needed to understand more deeply. To do this, we looked at a variety of avenues to see how we could best gather this information. In the end, we opted to employ a wide range of them to get a 360 degree perspective of the domain from many of the most significant players who operate within it.
 
-### Conferences and Seminars - Done
+### Conferences and Seminars
 
 We did a lot of research to locate potential conferences that we could attend that would give us a quick way of interacting with a range of players within the domain. We considered packaging conferences such as [Empack](http://www.easyfairs.com/empack-nordrhein-westfalen-2018/empack-nordrhein-westfalen-2018/){: target="_blank" } in Dortmund, Germany and [Food Pack Asia](http://www.foodpackthailand.com/en/){: target="_blank" } in Thailand. We also considered food related tech conferences such as [Anuga Food Tec](http://www.anugafoodtec.com/aft/index-4.php{: target="_blank" }) in Cologne, Germany and the [Euro Global Food Summit](https://food.global-summit.com/europe/){: target="_blank" } in Berlin.
 
