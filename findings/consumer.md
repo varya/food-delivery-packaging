@@ -98,7 +98,7 @@ Food arrives in a heat proof bag to the door, or the heat bag is left in the del
 
 Food packaging are delivered in a paper or plastic bag. This secondary packaging allows the delivery agent to carry the contents easily and sometimes also has restaurant specific branding on them. 
 
-*Can this bag be eliminated through packaging design?*
+> Can this bag be eliminated through packaging design?
 
 #### Leftovers & Waste
 
@@ -114,7 +114,7 @@ In situations where packaging isn’t recycled or the leftover food isn’t enou
 
 Packaging is recycled if, after consumption of food, the packaging isn’t messy and it is easy to separate the materials. Mixed materials in packaging leads to more complex waste disposal and this makes consumers less inclined to recycle.
 
-*Is there a way to enable material separation by design? How else can we simplify this?*
+> Is there a way to enable material separation by design? How else can we simplify this?
 
 Recycling is very limited by regional regulations though. Some areas require very specific steps to be followed such as cleaning and separating while others have no such regulation and everything is thrown away together.
 
@@ -122,11 +122,11 @@ Recycling is very limited by regional regulations though. Some areas require ver
 
 Transferring food to a separate dish leads to a loss of the original aesthetic. In addition, the visual aesthetic adds to the overall experience of consumption of the food. Attractive showcasing of food and a "quality feel" of the packaging even influenced and improved perceptions around the quality of food & the provider.
 
-*This aesthetic aspect of on-the-go food is rarely taken into account. How can we do it?*
+> This aesthetic aspect of on-the-go food is rarely taken into account. How can we do it?
 
-The ethnic aspect of food like sushi is lost in delivery. In one case, the consumer ended up adding a bamboo mat to recreate the Japanese spirit. From this it’s clear that the experience of eating delivery food is often drastically different to the restaurant experience*. *
+The ethnic aspect of food like sushi is lost in delivery. In one case, the consumer ended up adding a bamboo mat to recreate the Japanese spirit. From this it’s clear that the experience of eating delivery food is often drastically different to the restaurant experience.
 
-*How can we align these experiences and add more of the ethnic aspect?*
+> How can we align these experiences and add more of the ethnic aspect?
 
 ### One Key Difference - Ordering Patterns - Collective vs Individual
 
@@ -136,7 +136,7 @@ There was a clear correlation between a country’s [Hofstede cultural dimension
 
 This was confirmed even in our ethnographic research as we saw these patterns reflected in how the ordering behavior of those in Finland was in contrast to those in India and China. Our key takeaway from this is that 
 
-ordering patterns are *highly culture dependent and should be taken into account when creating packaging for different regions*
+> Ordering patterns are *highly culture dependent and should be taken into account when creating packaging for different regions*
 
 ### Most Consumers Face Similar Packaging Issues
 
