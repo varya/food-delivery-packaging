@@ -130,7 +130,7 @@ The ethnic aspect of food like sushi is lost in delivery. In one case, the consu
 
 ### One Key Difference - Ordering Patterns - Collective vs Individual
 
-There was a clear correlation between a country’s [Hofstede cultural dimension](https://geerthofstede.com/culture-geert-hofstede-gert-jan-hofstede/6d-model-of-national-culture/) on individualism and the ordering patterns that we observed. Participants from countries that had a higher rating on individualism were more likely to order one portion of food per individual while those that were more collectivist would be more likely to order food with the intent of sharing among the group. 
+There was a clear correlation between a country’s [Hofstede cultural dimension](https://geerthofstede.com/culture-geert-hofstede-gert-jan-hofstede/6d-model-of-national-culture/){: target="_blank" } on individualism and the ordering patterns that we observed. Participants from countries that had a higher rating on individualism were more likely to order one portion of food per individual while those that were more collectivist would be more likely to order food with the intent of sharing among the group. 
 
 <div class="inner-gallery text-center" data-gallery="collective-individual"></div>
 
