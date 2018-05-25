@@ -17,7 +17,7 @@ Our wide and varied [research methods](../../methodology), which included [secon
 
 The most influential player in the ecosystem, at least from the perspective of making decisions around packaging, is the customer. Packaging wholesalers cater their operations towards addressing these customer needs and delivery platforms cater their entire suite of services to offer greater benefit to customers. From our consumer research, we also found that the choice of packaging, and thus the packaging quality, is not linked to the maturity of market, but purely the preference of the restaurant and how much they’re willing to pay. In addition, as we’ll see in the section about the food delivery domain, delivery platforms are trying to evolve towards capturing more of the value that customers currently hold in the ecosystem.
 
-> "Our internal design team did the visual design for the packaging, picked the pink and kept it as simple as possible. The target is the restaurant (customer), not the consumer, as they need to buy it" - Foodora
+> "Our internal design team did the visual design for the packaging, picked the pink and kept it as simple as possible. The target is the restaurant (customer), not the consumer, as they need to buy it"<br/>- Foodora
 
 #### Consumers Want Faster Delivery for a Reason
 

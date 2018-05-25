@@ -37,9 +37,22 @@
   }
 
   .sitemap {
+    font-size: 0.75em;
+    &--inner {
+      .sitemap__item {
+        display: list-item;
+      }
+    }
     &__item {
+      display: inline-block;
+      vertical-align:top;
+      margin-right: 2em;
+
+      &:last-of-type {
+        margin-right: 0;
+      }
+      
       &--sub {
-        margin-left: 1em;
       }
     }
   }

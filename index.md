@@ -44,6 +44,13 @@ body_class: home-page
           <img class="card-img-top rounded-circle" src="assets/pictures/team/juho.jpg" alt="Card image cap">
           <div class="card-body">
             <h5 class="card-title">Juho Viironen</h5>
+            <p>
+              <a
+                class="team-card__linkedin"
+                href="https://www.linkedin.com/in/juhoviironen/">
+                /in/juhoviironen/
+              </a>
+            </p>
           </div>
          </div>
       </div>
@@ -52,6 +59,13 @@ body_class: home-page
           <img class="card-img-top rounded-circle" src="assets/pictures/team/varya.jpg" alt="Card image cap">
           <div class="card-body">
             <h5 class="card-title">Varya Stepanova</h5>
+            <p>
+              <a
+                class="team-card__linkedin"
+                href="https://www.linkedin.com/in/varyastepanova/">
+                /in/varyastepanova/
+              </a>
+            </p>
           </div>
          </div>
       </div>
@@ -60,6 +74,11 @@ body_class: home-page
           <img class="card-img-top rounded-circle" src="assets/pictures/team/adi.jpg" alt="Card image cap">
           <div class="card-body">
             <h5 class="card-title">Adithya Varadarajan</h5>
+            <a
+                class="team-card__linkedin"
+                href="https://www.linkedin.com/in/adithyadesign/">
+                /in/adithyadesign/
+            </a>
           </div>
          </div>
       </div>
@@ -68,6 +87,11 @@ body_class: home-page
           <img class="card-img-top rounded-circle" src="assets/pictures/team/jialai.jpg" alt="Card image cap">
           <div class="card-body">
             <h5 class="card-title">Jialai Qian</h5>
+            <a
+                class="team-card__linkedin"
+                href="https://www.linkedin.com/in/qianjialai/">
+                /in/qianjialai/
+            </a>
           </div>
          </div>
       </div>
@@ -122,7 +146,7 @@ body_class: home-page
     </div>
     <div class="row">
       <div class="col-lg-12 mx-auto">
-        <object type="image/svg+xml" data="assets/pictures/schemes/ecosystem.svg" class="ecosystem"></object>
+        <object type="image/svg+xml" data="assets/pictures/schemes/ecosystem.svg?v2" class="ecosystem"></object>
       </div>
     </div>
 
@@ -142,7 +166,7 @@ body_class: home-page
           <a class="btn btn-outline-light btn-lg" href="concepts/roadmap/" role="button">Solution roadmap</a>
         </p>
       </div>
-      <div class="col-lg-6 mx-auto">
+      <div class="col-lg-6 mx-auto text-center align-middle">
         <object type="image/svg+xml" data="assets/pictures/schemes/solution.svg" class="solution"></object>
       </div>
     </div>

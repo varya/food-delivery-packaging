@@ -38,9 +38,9 @@ If a simple checkbox of asking consumers whether or not they want disposable cut
 ![](../../assets/pictures/concepts/robot-delivery.png){: .image--max }<br/>
 Image Source - [Mikko Tiusanen (@tide52) on Instagram](https://www.instagram.com/p/BhekLL2AuOc/)
 
-How does packaging need to evolve in a situation where the consumer has to extract the food packaging themselves from the autonomous vehicle?
-
 > In a robot delivered future, how does packaging change? 
+
+How does packaging need to evolve in a situation where the consumer has to extract the food packaging themselves from the autonomous vehicle?
 
 #### What if your dine in restaurant food was from Deliveroo?
 

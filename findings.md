@@ -54,14 +54,13 @@ In addition, our research overall revealed how the food delivery domain has evol
 ![](../assets/pictures/findings/food-delivery-4-0.png)
 
 
-<div class="row m-5">
-    <div class="col-lg-6 mx-auto text-center">
-      <a class="btn btn-outline-success btn-lg" href="consumer" role="button">Consumer findings</a>
-    </div>
-    <div class="col-lg-6 mx-auto">
-      <a class="btn btn-outline-success btn-lg" href="industry" role="button">Industry findings</a>
-    </div>
-</div>  
+For more detailed information, please check:
+
+* [Consumer Findings](consumer)
+* [Industry Finiding](industry)
+* [Ecosystem](ecosystem)
+* [Key Insights](key-insights)
+* [The Evolution of Delivery](evolution)
 
   </div>
 </section>

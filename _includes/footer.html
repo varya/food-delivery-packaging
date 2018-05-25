@@ -16,7 +16,7 @@
               href="{{ page_href }}"
             >{{ page_title }}</a>
             {% if item.children %}
-              <ul>
+              <ul class="sitemap--inner">
               {% assign submenu = item.children | sort: 'position' %}
               {% for item in submenu %}
                 {% assign page_href = item.url | prepend: site.baseurl %}
@@ -29,8 +29,12 @@
           </li>
         {% endfor %}
         </ul>
-        <p>
-            TODO: ending words, copyright?
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-lg-12 mx-auto text-center">
+        <p class="small">
+          Project done for Huhtamaki Oy by students of Aalto University's IDBM Masters Program
         </p>
       </div>
     </div>

@@ -314,11 +314,11 @@ Even if recycling was a mixed bag, several consumers actively expressed a desire
 
 One of the sections of our research looked to understand the feelings consumers have around the delivery fee that is charged. It was evident from our findings that most people were used to this phenomenon with nearly two - thirds of them saying they were ok with the delivery fee. There was an even split in terms of cost preferences around the fees, with people on average ok with an amount around $3.
 
-![](../../assets/pictures/findings/delivery-fee.png){: .image--max }
+![](../../assets/pictures/findings/delivery-fee.png){: .image--medium }
 
 We then explored whether people would be willing to pay extra for better packaging and while some said that they would, the majority said they’d not be willing to do so and we heard multiple disgruntled responses around how quality packaging needs to be included by default.
 
-![](../../assets/pictures/findings/pay-extra.png){: .image--max }
+![](../../assets/pictures/findings/pay-extra.png){: .image--medium }
 
 The interesting thing about these responses was how, some people selected the option to pay extra but with the caveat that they’d only pay extra if delivery was faster.
 
