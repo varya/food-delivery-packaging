@@ -11,6 +11,13 @@ position: 2
 <section class="container-fluid" markdown="1">
   <div class="container" markdown="1">
 
+After gaining the insight of the ecosystem, we understood that if Huhtamaki wants to enter the domain, they would need to do more than only design and manufacture packaging. As the needs and problems of different stakeholders are different from each other, different kinds of actions need to be taken in order to fulfil them and to successfully enter this market. We ideated through a variety of iterations, starting with purely packaging and then going beyond as well.
+
+![](../../assets/pictures/concepts/ideation-2.jpg){: .image--max }
+
+
+----
+
   NOT YET DONE
 
 ![](/idbm-packaging/assets/pictures/solution1.jpg){: .solution }
