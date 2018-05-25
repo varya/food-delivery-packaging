@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Industry research
+title: Industry Research
 permalink: /methodology/industry-research/
 body_class: methodology-page
 
