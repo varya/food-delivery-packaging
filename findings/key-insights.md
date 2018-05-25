@@ -72,9 +72,58 @@ The key features transcend multiple demands and a successful packaging solution 
 1. Eco Friendly
 {: .highlighted-list }
 
+
 Based on all our consumer and customer research, we were able to determine the key requirements from packaging from their unique perspectives as well as that of the delivery platform. The consumer takes priority here as the customer research revealed how customers would have to adapt to their demands.
 
-TODO: insert existing table showing comparison of what consumers need but maybe make it a bit more visually appealing
+<table class="model" markdown="1">
+<tr markdown="1">
+<td markdown="1" colspan="3">
+#### Features of Ideal Packaging
+{: .model__header }
+</td>
+</tr>
+<tr markdown="1">
+<td markdown="1">
+
+##### Food Consumer
+{: .model__subheader }
+
+* Retain freshness
+* Maintain temperature (hot or cold)
+* Leak proof and spill proof when opening
+* Eco-friendly
+* Built in dividers to separate food components
+* Manage moisture build up
+
+</td>
+
+<td markdown="1">
+##### Food Producer 
+{: .model__subheader }
+
+* Easy storage (nesting & denesting)
+* Can be used for delivery or take out
+* For different food types
+* Different sizes
+* Effective pricing in small quantities
+* Branding
+
+</td>
+
+<td markdown="1">
+##### Delivery Provider
+{: .model__subheader }
+
+* Meets consumer needs and reduces complaints
+* Fits delivery bags (stackability)
+* Stability on bikes
+* Easily sourced with reasonable lead times
+* Effective pricing in small quantities
+* Branding
+
+</td>
+</tr>
+</table>
 
 Given the vast variety of food types, one single packaging solution might not be the answer. The problem is likely to require a suite of solutions. In addition, packaging isn’t the only contributing factor to the delivery experience, there’s more factors at play and these need to be considered as well.
 
