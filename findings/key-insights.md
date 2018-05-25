@@ -125,6 +125,8 @@ Based on all our consumer and customer research, we were able to determine the k
 </tr>
 </table>
 
+<hr/>
+
 Given the vast variety of food types, one single packaging solution might not be the answer. The problem is likely to require a suite of solutions. In addition, packaging isn’t the only contributing factor to the delivery experience, there’s more factors at play and these need to be considered as well.
 
 </div>
