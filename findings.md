@@ -37,7 +37,7 @@ It’s important to note that while Deliveroo and Foodora are defined as Deliver
 
 [![](../assets/pictures/findings/deliveroo-store.jpg)](https://deliveroo-packaging.com/){: target="_blank" }
 
-## Key Insights & Core Packaging Problem
+## Key Insights
 
 Based on all our consumer and customer research, we were able to determine the key requirements from packaging from both their perspectives. The consumer takes priority here as the customer research revealed how customers would have to adapt to their demands.
 

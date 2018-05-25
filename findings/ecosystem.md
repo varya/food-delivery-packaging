@@ -88,7 +88,10 @@ The marketplace platform is one where the website simply acts as a conduit betwe
 
 This has been the kind of business model that has been around for a while in the online ordering age, with the American service, Waiter.com, having been established as far back as 1995. Simply by virtue of age, this is the more dominant model in the market that covers 80-90% of the market for Delivery Hero and its many subsidiaries around the world that follow this model, shown in the image below.
 
-![](../../assets/pictures/findings/delivery-hero.jpg){: .image--max }
+<div class="text-center" markdown="1">
+![](../../assets/pictures/findings/delivery-hero.jpg){: .image--max }<br/>
+Image: The Delivery Hero global network
+</div>
 
 In this model, the platform charges restaurants a commission of around 8 to 12% of the total sale value. The primary responsibility of the platform here is to collect orders and payment from the consumer and transfer them to the producer. The platform also often acts as the conduit for customer support for issues like order delays, damaged packaging, poor quality food and more.
 

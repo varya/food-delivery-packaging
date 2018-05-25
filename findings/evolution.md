@@ -41,7 +41,7 @@ TODO: insert areas 3 image here
 
 One of the key questions that emerged when uncovering what’s happening in Food Delivery 4.0 was - why have these delivery platforms decided to sell packaging? Our extensive research combined with our interaction with people working for delivery platforms meant that we were already armed with the key pieces of information to answer this.
 
-The reasons boil down to two aspects - securing their market position and increasing their growth.
+> The reasons boil down to two aspects - securing their market position and increasing their growth.
 
 The success of a delivery platform is directly dependent on the consumer base that it can build in order to capitalize on the growth enabled by indirect network effects - a phenomenon that’s well described in in the paper "[Bridging differing perspectives on technological platforms: Toward an integrative framework](https://www.sciencedirect.com/science/article/pii/S0048733314000456){: target="_blank" } " by Annabelle Gawer written in 2014. From the consumer’s perspective, when ordering food, no matter the restaurant, the quality of the delivery process is the responsibility of the delivery platform and if packaging fails, the platform is the first to be blamed.
 
