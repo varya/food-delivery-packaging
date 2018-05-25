@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Secondary research
+title: Secondary Research
 permalink: /methodology/secondary-research/
 body_class: methodology-page
 
