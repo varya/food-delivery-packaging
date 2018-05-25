@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Consumer research
+title: Consumer Research
 permalink: /methodology/consumer-research/
 body_class: methodology-page
 
