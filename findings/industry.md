@@ -141,11 +141,19 @@ The restaurant study tour consisted of 17 QSR restaurants in Victoria, Soho and 
 
 The lunch culture in London is characterised by take-away food shops that offer salads, sandwiches and other foods in boxes and cups. In general, delivery packaging is generic: cardboard and rigid plastic cups for liquid foods, flexible plastic and paper wrappings/bags for sandwiches and wraps, plastic & pulp trays, erectable boxes and paper bags to carry the products. 
 
+<div class="inner-gallery text-center" data-gallery="lunch-culture"></div>
+
 Some restaurants used packaging for their internal logistics. In Crosstown donut shop for example, the products were delivered from the central kitchen to the retail units in corrugated cardboard boxes. The boxes were measured to fit their shelving units and delivery trolleys. It was common to get raw materials such as salads in flow packed bags. Also different kinds of boxes and trays were used in internal food logistics. Often pre cooked ingredients were delivered by big kitchens. There is also a demand in customised foods. 
+
+<div class="inner-gallery text-center" data-gallery="internal-logistics"></div>
 
 Some restaurants had pre-order collection points. The collection points were often clearly indicated so the delivery agents find the pick up point easily. In Hop Vietnamese restaurant, the delivery collection point was very visibly marked right at the door. Staff at restaurant / cafe / market called Sourced Market said that they don’t offer deliveries as they lack the space for this activity. 
 
+<div class="inner-gallery text-center" data-gallery="pick-up-points"></div>
+
 The actual deliveries were done both by delivery platforms’ agents as well as by the restaurants’ own staff.
+
+![](../../assets/pictures/findings/delivery-pure.jpg){: .image--max }
 
 ### Delivery Platforms
 

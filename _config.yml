@@ -44,8 +44,8 @@ gallery:
   lightbox: true
                             # Possible values are: title, date_time, best_image
   thumbnail_size:
-    x: 400                  # max width of thumbnails (in pixels)
-    y: 400                  # max height of thumbnails (in pixels)
+    x: 350                  # max width of thumbnails (in pixels)
+    y: 350                  # max height of thumbnails (in pixels)
   # The following options are for individual galleries.
   galleries:
     process:
