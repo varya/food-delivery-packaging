@@ -98,9 +98,7 @@ If that’s not enough, one of the more important aspects that emerged was how, 
 
 <div class="text-center">
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ah-XN8m-gns" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tFyOC5FbJWU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zjndzyiWsxg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLryoi_EXmXsjSVZu-6LwKjTqj52NFSe27" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 </div>
 
@@ -110,9 +108,7 @@ As a part of the industry research we attended a delivery conference and a resta
 
 #### [Post & Parcel Food Delivery Seminar](http://www.postandparcel.live/events/post-parcel-live-2018-the-food-delivery-seminar/event-summary-c6c4c18eb04f4ae79827b074e5491772.aspx){: target="_blank" }, Jan 25th 2018
 
-The speakers in the conference included delivery logistics partners, packaging manufacturers and delivery solutions providers. One common theme was that consumers lack loyalty to a delivery service even if there’s stickiness after sign up. They simply pick the service that can deliver what they want in a shorter time duration. 
-
-> It is the delivery time that matters most to customers 
+The speakers in the conference included delivery logistics partners, packaging manufacturers and delivery solutions providers. 
 
 Speakers from:
 
@@ -126,6 +122,10 @@ Speakers from:
 * [What3Words](https://what3words.com)
 
 ![](../../assets/pictures/findings/Companies-at-conference.png){: .image--max }
+
+One common theme was that consumers lack loyalty to a delivery service even if there’s stickiness after sign up. They simply pick the service that can deliver what they want in a shorter time duration. 
+
+> It is the delivery time that matters most to customers 
 
 This need for a faster delivery time, especially in urban areas has led to the adoption of bikes for delivery at an increasing rate. In addition to faster delivery time, for delivery platforms like Deliveroo, maintaining the quality of service and thus retaining best delivery agents for peak delivery times (lunch/dinner) is vital for a positive consumer experience and because of this, they pay their delivery agents more. At Foodora, this issue has been avoided by adopting a model where the delivery agents are on their payroll. 
 
@@ -159,7 +159,7 @@ The insights also helped validate some of our own findings from the consumer res
 
 This quote was also accompanied by fascinating dynamics between the different players in the ecosystem. From the customer perspective, a lot of them have not really thought about proper packaging and don’t care about the consumer experience once the food has been handed over to the delivery agent. In these situations, the delivery platform becomes the primary communicator with the consumer, both for placing order but also for receiving complaints. As such, delivery companies have a well documented library of packaging related consumer complaints and are best placed to identify ways to solve these issues and also push customers to adopt these solutions. Even in situations where the customers were aware enough of consumer needs and wanted to improve packaging, they don’t know where to procure quality packaging that’s affordable even in smaller quantities. 
 
-One of the ways that these companies are trying to solve this challenge is by setting up their own store to curate and sell quality delivery packaging in smaller quantities and reasonable prices. Steps like this are still an experiment but are changing the very ecosystem that we’ve been studying, and you can find out more about this in [Key Insights section](../../findings/key-insights/).
+One of the ways that these companies are trying to solve this challenge is by setting up their own store to curate and sell quality delivery packaging in smaller quantities and reasonable prices. Steps like this are still an experiment but are changing the very ecosystem that we’ve been studying, and you can find out more about this in [The Evolution of Delivery section](../../findings/evolution/).
 
 ![](../../assets/pictures/findings/Foodora-Store.png)
 
