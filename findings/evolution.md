@@ -25,7 +25,7 @@ Throughout this time though, the restaurants that were present on these platform
 
 ![](../../assets/pictures/findings/Delivery-logistics.jpg){: .image--max}
 
-You can read more about the history of this domain in these articles (that we referred to as well) on [Time Magazine](http://time.com/4291197/take-out-delivery-food-history/){: target="_blank" }  and [The Skinny’s article in collaboration with Deliveroo](http://www.theskinny.co.uk/food-and-drink/features/delivery-history-deliveroo){: target="_blank" } . It’s now 2018 and since their launch, delivery partner platforms like Deliveroo and Foodora have been hard at work trying to capture more of the market. It is clear from our research that they are already the biggest movers in this space the likes of [Deliveroo reportedly growing at 25% a month](https://www.forbes.com/sites/freddiedawson/2016/02/26/delivering-25-month-on-month-growth-the-deliveroo-success-story/#bffc5426cada){: target="_blank" } . It’s these delivery companies who are increasing their influence by expanding into other areas of the domain as well. Both [Foodora](https://shop.foodora.com/) and [Deliveroo](https://deliveroo-packaging.com/){: target="_blank" }  are actively conducting experiments to sell packaging directly to customers via their own portals. 
+You can read more about the history of this domain in these articles (that we referred to as well) on [Time Magazine](http://time.com/4291197/take-out-delivery-food-history/){: target="_blank" }  and [The Skinny’s article in collaboration with Deliveroo](http://www.theskinny.co.uk/food-and-drink/features/delivery-history-deliveroo){: target="_blank" } . It’s now 2018 and since their launch, delivery partner platforms like Deliveroo and Foodora have been hard at work trying to capture more of the market. It is clear from our research that they are already the biggest movers in this space the likes of [Deliveroo reportedly growing at 25% a month](https://www.forbes.com/sites/freddiedawson/2016/02/26/delivering-25-month-on-month-growth-the-deliveroo-success-story/#bffc5426cada){: target="_blank" } . It’s these delivery companies who are increasing their influence by expanding into other areas of the domain as well and as a first step, both [Foodora](https://shop.foodora.com/) and [Deliveroo](https://deliveroo-packaging.com/){: target="_blank" }  are actively conducting experiments to sell packaging directly to customers via their own portals. 
 
 [![](../../assets/pictures/findings/Foodora-Store.png)](https://shop.foodora.com/){: target="_blank" }
 
@@ -73,7 +73,7 @@ The extensive information provided on a Deliveroo product page is more than suff
 
 ![](../../assets/pictures/findings/deliveroo-ratings.png)
 
-### What about these container restaurants? - Done
+### What about these container restaurants?
 
 The other curious development in the last year has been Deliveroo’s experiment with opening up delivery focused restaurants in containers,[ their Editions concept](https://www.theguardian.com/business/2017/oct/28/deliveroo-dark-kitchens-pop-up-feeding-the-city-london){: target="_blank" } . As of January 2018, [Deliveroo had setup over 100 such restaurants across 12 cities](https://www.bloomberg.com/news/articles/2018-01-15/deliveroo-takes-a-kitchen-sink-approach-to-food-apps){: target="_blank" } . Once again, our research and some additional secondary sources were able to help us understand what the situation was for restaurants that made this a lucrative opportunity for Deliveroo.
 
