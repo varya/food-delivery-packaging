@@ -94,4 +94,15 @@
       margin-bottom: 2em;
   }
 
+  .logo {
+      &__meituan {
+          height: 300px;
+          margin-right: 1em;
+      }
+      &__ele {
+          height: 150px;
+          margin-left: 1em;
+      }
+  }
+
 }
