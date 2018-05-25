@@ -17,6 +17,8 @@ In addition to our key insights, our research overall revealed how the food deli
 
 The first phase of the modern food delivery era, is the one where you make a phone call to order your food. The origins of this can be traced back to Los Angeles in 1922, where a Chinese restaurant - [Kin Chu cafe](https://hungrco.files.wordpress.com/2015/09/rb03643-01.jpg?quality=85){: target="_blank" }  - provided the service until as late as 1am. The real boom in this sort of delivery happened after World War II where in the US and UK, returning soldiers from the war had developed a taste for Italian food and pizzas. This coincided with increasing prosperity and thus spending power, leading to perfect conditions for the delivery ecosystem to rise rapidly. It is around this time, in the 1950s, that the first example of free delivery emerged as well, with a pizza joint in Los Angeles offering [free delivery after a minimum order of $2.50](http://farm4.static.flickr.com/3029/2665098051_c9ca5dd56b.jpg){: target="_blank" }.
 
+<div class="inner-gallery text-center" data-gallery="ancient-delivery"></div>
+
 Ordering over the phone has been the dominant ordering and delivery type for most of the last century but as the internet emerged, so too did the advent of online food ordering. The first online delivery service showed up in 1995 in the form of World Wide Waiter which was essentially hosting menus online. The service was also among the first to feature the option for consumers to offer reviews, like [this one from 1995](https://www.paloaltoonline.com/weekly/morgue/restaurants/1995_Dec_29.EATOUT29.html){: target="_blank" } . While [pizza places were the earliest adopters](http://adage.com/article/digital/pizza-giants-customers-click-call-delivery/136087/){: target="_blank" }  of food delivery via online services, the 2000s saw increasing growth in this space with the launch of many players in the domain, including major services like Grubhub in 2004 and the foundation for Delivery Hero in 2008. These platforms saw huge growth over time, with Delivery Hero in particular, growing rapidly via a series of acquisitions of local platforms in different regions around the world.
 
 ![](../../assets/pictures/findings/DeliveryHero-Growth.jpg)
@@ -31,11 +33,11 @@ You can read more about the history of this domain in these articles (that we re
 
 This is causing an interesting blend in the roles within our ecosystem as shown in the image below. The influence of the delivery platform is growing, and doing so rapidly.
 
-TODO: insert areas 2 image
+<object type="image/svg+xml" data="../../assets/pictures/schemes/areas2.svg" class="areas"></object>
 
 In addition, Deliveroo, has leveraged its vast range of user data to understand that there are many cases where there is a demand for certain kind of food from consumers in a certain area, but no way for the customer to reach these consumers. For the customer, setting up a new restaurant space within reach of these areas requires significant investment and they take on a lot of risk. Deliveroo is eliminating that with [their Editions concept](https://www.theguardian.com/business/2017/oct/28/deliveroo-dark-kitchens-pop-up-feeding-the-city-london){: target="_blank" }  which offers d[elivery optimized kitchen spaces](http://www.businessinsider.com/deliveroo-editions-pop-up-restaurants-roobox-2017-4?r=UK&IR=T&IR=T){: target="_blank" }  hosted within a cluster of containers. Each container hosts the chefs from one restaurant and the kitchen space is co-designed with the restaurateurs to ensure the most efficient and best possible home dining experience. This provides Deliveroo with the opportunity to capture even more of the revenue in the ecosystem, as shown in the image below.
 
-TODO: insert areas 3 image here
+<object type="image/svg+xml" data="../../assets/pictures/schemes/areas3.svg" class="areas"></object>
 
 ### Why Are These Delivery Platforms Selling Packaging?
 
@@ -96,7 +98,7 @@ Photo source - [Wired UK](http://www.wired.co.uk/article/deliveroo-editions-loca
 
 A fascinating variety of restaurants have opted for this concept, ranging from Cocotte, a premium French restaurant originally based in Notting Hill to the likes of Motu Indian Cuisine, the offshoot of the previously mentioned Michelin Star Restaurant. The experiment has been a tremendous success for Deliveroo as they have made plans to [expand their Editions concept to a global level](https://london.eater.com/2017/9/27/16372708/deliveroo-rapid-growth-dark-kitchens-after-284m-investment-restaurant-delivery){: target="_blank" }  - with launches expected in Hong Kong, France, Netherlands, Dubai, Singapore and Australia this year. To go hand in hand with their global expansion, as of March 2018, they are also setting up the ["Pop Up" initiative](https://london.eater.com/2018/3/13/17113274/deliveroo-editions-start-up-incubator-new-pop-ups){: target="_blank" } which acts as a 12 week incubator for up and coming restaurant and food concepts in their Editions spaces.
 
-If you’re curious to see what’s next for this fascinating domain, check out our page on Food Delivery 5.0.
+If you’re curious to see what’s next for this fascinating domain, check out our page on [Food Delivery 5.0](../../concepts/food-delivery-5.0/).
 
 </div>
 </section>

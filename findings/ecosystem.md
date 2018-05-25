@@ -17,7 +17,7 @@ After our extensive research of the domain, our team pieced together the ecosyst
 
 After this process, we finally determined that the overall ecosystem around food delivery can be depicted with the below diagram that best describes the players in the ecosystem and how they’re all interconnected. The graphic has been designed in such a way that, depending on the focus and specific businesses, we can represent this map with different layers of information including material flow of packaging, flow of money and key influencers & decision makers in the domain.
 
-<object type="image/svg+xml" data="../../assets/pictures/schemes/ecosystem-color.svg" class="ecosystem-color"></object>
+<object type="image/svg+xml" data="../../assets/pictures/schemes/ecosystem-color.svg" class="ecosystem"></object>
 
 This visual representation made it possible to describe businesses of both large and small market players with the focus on how they operate in the packaging domain. Using the map as a framework, Huhtamaki can analyze businesses existing in the market and figure out what they can offer. The above image indicates the material flow in the ecosystem (our default consideration) and the one below indicates the flow of money (in green).
 
@@ -175,6 +175,10 @@ This person is an employee of the partner style delivery platform to provide del
 This is a new trend that’s emerging that was observed during our conferences in London, especially Post & Parcel. These are independent companies that are focused on optimized delivery logistics that isn’t just limited to food delivery. They realize that the demand for delivery of food only exists at peak hours around lunch or dinner time and so make their operations more efficient and their customer facing offerings more attractive by providing other services as well. These include collection of laundry, delivery of paperwork, package collection and other similar errands.
 
 ![](../../assets/pictures/findings/delivery-agents.png){: .image--medium }
+
+<hr/>
+
+Now that you’ve seen how our findings translated into this comprehensive understanding of the ecosystem, you can take a look at how we leveraged this understanding in our solutions in our sections on [Food Delivery 5.0](../../concepts/food-delivery-5.0/) and our [Solution Roadmap](../../concepts/roadmap/).
 
 
 </div>

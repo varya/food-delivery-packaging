@@ -42,5 +42,9 @@ The perspective of the delivery companies was important because in the current m
 
 We consulted Huhtamaki’s India office to understand more about their perspectives on the Indian market and who was driving it to see if there was a contrast with more mature markets. To round off our ecosystem image, we visited one of the Huhtamaki production facilities to understand the capabilities. In addition, we spoke to experts about packaging at Package Testing & Research (PTR) who test packaging in terms of in store visibility, packaging design and the product qualities. PTR also conducts packaging usability research. At the visit we attended an eye tracking demo research.
 
+<hr/>
+
+To see the outcome of our research into industry, take a look at our [Industry Findings](../../findings/industry/) and our [Ecosystem](../../findings/ecosystem/).
+
 </div>
 </section>

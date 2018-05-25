@@ -23,7 +23,7 @@ Our attendance of conferences revealed a clear insight into the perspectives of 
 
 ![](../assets/pictures/findings/conference.jpg){: .image--max }
 
-Our secondary research revealed some key insights into the world’s largest delivery market in China while we were also able to find useful information on the secondary and tertiary packaging that’s in use. Lastly, our visits to Huhtamaki’s factory setup and the facilities of Package Testing & Research (PTR) helped round off a comprehensive understanding of the industry.
+Our secondary research revealed some key insights into the world’s largest delivery market in China while we were also able to find useful information on the secondary and tertiary packaging that’s in use. Lastly, our visits to Huhtamaki’s factory setup and the facilities of Sense n Insight helped round off a comprehensive understanding of the industry.
 
 ![](../assets/pictures/findings/factory.jpg){: .image--max }
 

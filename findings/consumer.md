@@ -322,5 +322,9 @@ We then explored whether people would be willing to pay extra for better packagi
 
 The interesting thing about these responses was how, some people selected the option to pay extra but with the caveat that they’d only pay extra if delivery was faster.
 
+<hr/>
+
+Now that you’ve seen the illuminating set of insights from the user, you can take a look at how it contributed to our understanding of the [Ecosystem](../../findings/ecosystem/). You can also check out how our solutions dealt with these insights in our sections on [Food Delivery 5.0](../../concepts/food-delivery-5.0/) and our [Solution Roadmap](../../concepts/roadmap/).
+
 </div>
 </section>

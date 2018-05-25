@@ -11,7 +11,7 @@ position: 2
 <section class="container-fluid" markdown="1">
   <div class="container" markdown="1">
 
-After gaining the insight of the ecosystem, we understood that if Huhtamaki wants to enter the domain, they would need to do more than only design and manufacture packaging. As the needs and problems of different stakeholders are different from each other, different kinds of actions need to be taken in order to fulfil them and to successfully enter this market. We ideated through a variety of iterations, starting with purely packaging and then going beyond as well.
+After gaining  an insight into the ecosystem, we understood that if Huhtamaki wants to enter the domain, they would need to do more than only design and manufacture packaging. As the needs and problems of different stakeholders are different from each other, different kinds of actions need to be taken in order to fulfil them and to successfully enter this market. We ideated through a variety of iterations, starting with purely packaging and then going beyond as well.
 
 ![](../../assets/pictures/concepts/ideation-2.jpg){: .image--max }
 
@@ -108,7 +108,13 @@ One idea we thought about is to add a heating system to the secondary/tertiary p
 
 This would combine with the temperature sensors discussed in the intelligent packaging section above to track the temperature inside the box in real time. As the temperature drops below a certain optimum consumption experience level as determined by the customer/chef, it could be set to trigger and control the heating plate on and off. This way we can remain the temperature inside the secondary package, to keep the best condition for the meal we are delivering. 
 
-Another idea that we had was around having packaging with some kind of self stabilizing bottom, a bit like an internal gyroscope. Given how much time the packaging spends on an incline when the backpack is on the rider’s back, we considered the possibility that the backpack itself can be designed with floating bottom so that it responds the inclines and ensures that the packaging within it always stays parallel to the ground. This can be done if the bottom is based on some sort of liquid layer. However, we must admit that water seems too heavy liquid, especially when speaking about bike delivery. Also, the cost production of such packaging seems higher than expected. Nevertheless, with some technological investment, the idea should be working if implemented on secondary packaging and with specific material.		
+Another idea that we had was around having packaging with some kind of self stabilizing bottom, a bit like an internal gyroscope. Given how much time the packaging spends on an incline when the backpack is on the rider’s back, we considered the possibility that the backpack itself can be designed with floating bottom so that it responds the inclines and ensures that the packaging within it always stays parallel to the ground. This can be done if the bottom is based on some sort of liquid layer. However, we must admit that water seems too heavy liquid, especially when speaking about bike delivery. Also, the cost production of such packaging seems higher than expected. Nevertheless, with some technological investment, the idea should be working if implemented on secondary packaging and with specific material.	
+
+<hr/>	
+
+This brings us to the end of the student contribution to Huhtamaki’s endeavour to enter the food delivery space. We hope to see our insights and our ideas being put to use in the coming years. 
+
+Thank you for taking the time to go through this report website. You may feel free to continue exploring and if you have any further questions, don’t hesitate to contact us. Our contact information is available on the [About page](../../about/).
 
 </div>
 </section>

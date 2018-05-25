@@ -28,7 +28,7 @@ To supplement our ethnographic observations and add to the richness of our consu
 
 ![](../../assets/pictures/map.png)
 
-The interview first sought to understand more about their most recent delivery experience and then followed by their experience with delivery in general as well. We also looked into what they would define as their ideal packaging and their preferences around paying extra for it. Lastly, for some consumers, they also used meal kit services - a service where ingredients and a recipe are sent to you on a regular basis - and we were able to get them to compare and contrast with regular food delivery. Overall, this research approach gave us a great idea of consumer expectations and their key criteria for good packaging. You can find this information in our Consumer Findings section. In addition, a sample of the questionnaire that we used is available on request.
+The interview first sought to understand more about their most recent delivery experience and then followed by their experience with delivery in general as well. We also looked into what they would define as their ideal packaging and their preferences around paying extra for it. Lastly, for some consumers, they also used meal kit services - a service where ingredients and a recipe are sent to you on a regular basis - and we were able to get them to compare and contrast with regular food delivery. Overall, this research approach gave us a great idea of consumer expectations and their key criteria for good packaging. You can find this information in our [Consumer Findings](../../findings/consumer/) section. In addition, a sample of the questionnaire that we used is available on request.
 
 </div>
 </section>

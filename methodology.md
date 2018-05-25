@@ -27,11 +27,11 @@ Secondary research also came into play when working on the solutions, particular
 
 ## Consumer Research
 
-To understand the consumer experience in the food delivery space, conducted extensive consumer research. The key goal was that we needed to understand the unmet needs of consumers as this would provide opportunities to innovate in ways that can meet these needs. We first conducted **ethnographic field research** where each team member went to a household situation and recorded video clips and photographs of the consumer behavior at various stages of the process.
+To understand the consumer experience in the food delivery space, we conducted extensive consumer research. The key goal was that we needed to understand the unmet needs of consumers as this would provide opportunities to innovate in ways that can meet these needs. We first conducted **ethnographic field research** where each team member went to a household situation and recorded video clips and photographs of the consumer behavior at various stages of the process.
 
 ![](../assets/pictures/methodology/ethnographic-research.jpg){: .image--max }
 
-This helped us get a first hand view of the food delivery process, their behavior and potential issues that they encountered. The videos helped us identify situations where there were mismatches between what people say they do and what they actually did. To supplement our ethnographic observations and add to the richness of our consumer insights, we did further consumer research with 69 people from across 30 countries about their food delivery experiences and packaging preferences. This gave us a great overall idea of consumer expectations and their key criteria for good packaging.
+This helped us get a first hand view of the food delivery process, their behavior and potential issues that they encountered. The videos helped us identify situations where there were mismatches between what people say they do and what they actually did. To supplement our ethnographic observations and add to the richness of our consumer insights, we did further consumer interviews (a mix of in person and video chat) with 69 people from across 30 countries about their food delivery experiences and packaging preferences. This gave us a great overall idea of consumer expectations and their key criteria for good packaging.
 
 ## Industry Research
 
@@ -41,7 +41,7 @@ We identified conferences and seminars that we could attend and went to London f
 
 ![](../assets/pictures/methodology/post-parcel.png){: .image--max }
 
-We then had meetings with individuals from delivery companies to get their perspective of these delivery platforms and understand how the domain is evolving for them. We also visited Huhtamaki’s production facilities to understand their capabilities and get the views of manufacturing experts and what their understanding of the domain was. We expanded our understanding of regional differences by having a session with Huhtamaki’s India Office as well. Lastly, we contacted Package Testing & Research (PTR) to round off the overall picture of the ecosystem. 
+We then had meetings with individuals from delivery companies to get their perspective of these delivery platforms and understand how the domain is evolving for them. We also visited Huhtamaki’s production facilities to understand their capabilities and get the views of manufacturing experts and what their understanding of the domain was. We expanded our understanding of regional differences by having a session with Huhtamaki’s India Office as well. Lastly, we contacted Sense n Insight to round off the overall picture of the ecosystem. 
 
 ![](../assets/pictures/methodology/delivery-hero.png){: .image--medium}
 

@@ -159,7 +159,7 @@ The insights also helped validate some of our own findings from the consumer res
 
 This quote was also accompanied by fascinating dynamics between the different players in the ecosystem. From the customer perspective, a lot of them have not really thought about proper packaging and don’t care about the consumer experience once the food has been handed over to the delivery agent. In these situations, the delivery platform becomes the primary communicator with the consumer, both for placing order but also for receiving complaints. As such, delivery companies have a well documented library of packaging related consumer complaints and are best placed to identify ways to solve these issues and also push customers to adopt these solutions. Even in situations where the customers were aware enough of consumer needs and wanted to improve packaging, they don’t know where to procure quality packaging that’s affordable even in smaller quantities. 
 
-One of the ways that these companies are trying to solve this challenge is by setting up their own store to curate and sell quality delivery packaging in smaller quantities and reasonable prices. Steps like this are still an experiment but are changing the very ecosystem that we’ve been studying, and you can find out more about this in [The Evolution of Delivery section](../../findings/evolution/).
+One of the ways that these companies are trying to solve this challenge is by setting up their own store to curate and sell quality delivery packaging in smaller quantities and reasonable prices. Steps like this are still an experiment but are changing the very ecosystem that we’ve been studying, and you can find out more about this in [The Evolution of Delivery ](../../findings/evolution/) section.
 
 ![](../../assets/pictures/findings/Foodora-Store.png)
 
@@ -176,6 +176,10 @@ We aimed to leverage the production capabilities of these segments in our final 
 We spoke to experts about packaging at [Sense n Insight](http://senseninsight.com){: target="_blank" }, which is a merge of PTR (Package Testing and Research), Makery and Best Before. They showcased their suite of offerings and what they specialize in and allowed us to go hands on with some samples of innovative food packaging. They also presented us with their tool that measures packaging in three levels: packaging in store, the actual packaging and the product. The company conducts qualitative and quantitative research, eye tracking, packaging usability research, focus groups etc. We also took part in a demo eye tracking study that they use to evaluate the visibility, attractiveness and overall consumer preference for packaging design in stores.
 
 ![](../../assets/pictures/findings/PTR-Photo.jpg){: .image--medium }
+
+<hr/>
+
+Now that you’ve seen the wide range of findings from industry, you can take a look at how it contributed to our understanding of the Ecosystem. You can also check out how our solutions dealt with these insights in our sections on [Food Delivery 5.0](../../concepts/food-delivery-5.0/) and our [Solution Roadmap](../../concepts/roadmap/).
 
 
 </div>
