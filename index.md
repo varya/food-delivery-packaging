@@ -137,7 +137,9 @@ body_class: home-page
         <p class="lead">This overall understanding of the ecosystem, combined with our insights gathered from the various players, allows us to present this potential roadmap for innovation going forward. We believe packaging alone isn’t enough for Huhtamaki to become a player in this space and thus we have shared a range of situations where they can add value. In addition we’ve also provided some thought provoking future directions for food delivery based on our research.</p>
         <p class="lead">For more details on the various phases of this project, please use the navigation menu at the top of the page.</p>
         <p class="text-center">
-          <a class="btn btn-outline-light btn-lg" href="concepts" role="button">Click for more</a>
+          <a class="btn btn-outline-light btn-lg" href="concepts/food-delivery-5.0/" role="button">Food delivery 5.0</a>
+          &nbsp;&nbsp;&nbsp;&nbsp;
+          <a class="btn btn-outline-light btn-lg" href="concepts/roadmap/" role="button">Solution roadmap</a>
         </p>
       </div>
       <div class="col-lg-6 mx-auto">
