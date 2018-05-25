@@ -82,7 +82,7 @@ Consumers choose where to order from based on how convenient the process is and 
 </tr>
 <tr markdown="1">
 <td markdown="1" colspan="2" class="model__no-pad">
-#### Decide to Order
+#### Place Order
 {: .model__header .model__header--wrapper }
 </td>
 </tr>
@@ -104,11 +104,11 @@ Food packaging are delivered in a paper or plastic bag. This secondary packaging
 
 Leftovers are usually not discarded (when consumed in home environment) but it depends on how much food is left over. If there’s sufficient food, people are most likely to store leftovers in the original packaging for consuming at a later time.
 
-<div class="inner-gallery text-center" data-gallery="leftovers"></div>
+![](../../assets/pictures/findings/leftovers-chart.png){: .image--max }
 
 In situations where packaging isn’t recycled or the leftover food isn’t enough to be saved for a second meal, everything is often discarded in the same bag and packaging that it arrives in.
 
-![](../../assets/pictures/findings/leftovers-chart.png){: .image--max }
+<div class="inner-gallery text-center" data-gallery="leftovers"></div>
 
 #### Recycling is a Mixed Bag
 
@@ -320,6 +320,7 @@ We then explored whether people would be willing to pay extra for better packagi
 
 ![](../../assets/pictures/findings/pay-extra.png){: .image--max }
 
+The interesting thing about these responses was how, some people selected the option to pay extra but with the caveat that they’d only pay extra if delivery was faster.
 
 </div>
 </section>
