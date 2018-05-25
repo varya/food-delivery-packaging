@@ -74,7 +74,7 @@ What if you looked at the next phase in vendor managed inventory and could antic
 
 What if this were simplified for the customers in a way that they didn’t have to ever worry about ordering for packaging supplies? 
 
-> What if they simply paid one easy subscription fee?
+> What if customers simply paid an easy, recurring, subscription fee?
 
 #### What if delivery food and packaging had to be designed for an experience?
 
