@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Concepts
-permalink: /concepts/
-body_class: solution-page
+title: Food Delivery 5.0
+permalink: /concepts/food-delivery-5.0/
+body_class: concept-page
 
-group: navigation
-position: 6
+menus: concepts
+position: 1
 ---
 
 ![](/idbm-packaging/assets/pictures/solution1.jpg){: .solution }

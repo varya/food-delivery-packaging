@@ -21,7 +21,7 @@ Another one of the key questions we wanted to explore was whether or not custome
 
 <div class="inner-gallery text-center" data-gallery="better-packaging"></div>
 
-Our secondary research also uncovered fascinating trends in the domain and this helped us immensely with our future focused solutions. We uncovered how data was being used to optimize the delivery process at [Deliveroo](https://news.deliveroo.co.uk/news/new-technology-will-help-uk-restaurants-produce-more-meals.html){: target="_blank" } and how companies are jumping on board the autonomous vehicle driven future with [Starship Tech launching robot delivery services](https://venturebeat.com/2018/04/30/starship-technologies-launches-autonomous-robot-delivery-services-for-campuses/){: target="_blank" } for college campuses. We also did a deep dive into trends related to other emerging technologies like the internet of things (IoT) and even did an Aalto course on the topic which eventually ended up being one of the key elements of our overall solution. You can find out more about how we leveraged our trends in Food Delivery 5.0 and can also read more about our concept and IoT plays a part in Intelligent packaging as well.
+Our secondary research also uncovered fascinating trends in the domain and this helped us immensely with our future focused solutions. We uncovered how data was being used to optimize the delivery process at [Deliveroo](https://news.deliveroo.co.uk/news/new-technology-will-help-uk-restaurants-produce-more-meals.html){: target="_blank" } and how companies are jumping on board the autonomous vehicle driven future with [Starship Tech launching robot delivery services](https://venturebeat.com/2018/04/30/starship-technologies-launches-autonomous-robot-delivery-services-for-campuses/){: target="_blank" } for college campuses. We also did a deep dive into trends related to other emerging technologies like the internet of things (IoT) and even did an Aalto course on the topic which eventually ended up being one of the key elements of our overall solution. You can find out more about how we leveraged our trends in [Food Delivery 5.0](../../concepts/food-delivery-5.0/) and can also read more about our concept and IoT plays a part in [Intelligent packaging](../../concepts/roadmap/) as well.
 
 #### Food Delivery in China
 
@@ -94,7 +94,7 @@ Another aspect of our secondary research involved the exploration of videos high
 
 <div class="inner-gallery text-center" data-gallery="bike-delivery"></div>
 
-If that’s not enough, one of the more important aspects that emerged was how, while the bike is being used, the packaging is always at an incline, which means by default, the food inside the packaging is likely to move around and if not properly packed or properly sealed, the chance of leaks is not insignificant. Some of the most important themes that emerged from this really helped define our overall solution at the end and you can read about that in our Solution Roadmap.
+If that’s not enough, one of the more important aspects that emerged was how, while the bike is being used, the packaging is always at an incline, which means by default, the food inside the packaging is likely to move around and if not properly packed or properly sealed, the chance of leaks is not insignificant. Some of the most important themes that emerged from this really helped define our overall solution at the end and you can read about that in our [Solution Roadmap](../../concepts/roadmap/).
 
 <div class="text-center">
 
@@ -112,7 +112,7 @@ As a part of the industry research we attended a delivery conference and a resta
 
 The speakers in the conference included delivery logistics partners, packaging manufacturers and delivery solutions providers. One common theme was that consumers lack loyalty to a delivery service even if there’s stickiness after sign up. They simply pick the service that can deliver what they want in a shorter time duration. 
 
-It is the delivery time that matters most to customers 
+> It is the delivery time that matters most to customers 
 
 Speakers from:
 
@@ -129,7 +129,7 @@ Speakers from:
 
 This need for a faster delivery time, especially in urban areas has led to the adoption of bikes for delivery at an increasing rate. In addition to faster delivery time, for delivery platforms like Deliveroo, maintaining the quality of service and thus retaining best delivery agents for peak delivery times (lunch/dinner) is vital for a positive consumer experience and because of this, they pay their delivery agents more. At Foodora, this issue has been avoided by adopting a model where the delivery agents are on their payroll. 
 
-Currently, customers hold the power for packaging solutions, but they will have to listen if consumers demand it. 
+> Currently, customers hold the power for packaging solutions, but they will have to listen if consumers demand it. 
 
 ![](../../assets/pictures/findings/1st-conf.jpg){: .image--max }
 
@@ -149,7 +149,7 @@ The actual deliveries were done both by delivery platforms’ agents as well as 
 
 ### Delivery Platforms
 
-Our interaction with people from Delivery Hero and Foodora proved to be extremely fruitful as the people we interviewed were a treasure trove of information. One had a lot of insights into topics related to packaging while being well balanced by the other who had a much more business and market dynamic oriented view. The insights helped us complete our understanding of the ecosystem, which you can read more about here.
+Our interaction with people from Delivery Hero and Foodora proved to be extremely fruitful as the people we interviewed were a treasure trove of information. One had a lot of insights into topics related to packaging while being well balanced by the other who had a much more business and market dynamic oriented view. The insights helped us complete our understanding of the ecosystem, which you can read more about [here](../../findings/ecosystem/).
 
 ![](../../assets/pictures/findings/DeliveryHero.jpg){: .image--max }
 
@@ -159,7 +159,7 @@ The insights also helped validate some of our own findings from the consumer res
 
 This quote was also accompanied by fascinating dynamics between the different players in the ecosystem. From the customer perspective, a lot of them have not really thought about proper packaging and don’t care about the consumer experience once the food has been handed over to the delivery agent. In these situations, the delivery platform becomes the primary communicator with the consumer, both for placing order but also for receiving complaints. As such, delivery companies have a well documented library of packaging related consumer complaints and are best placed to identify ways to solve these issues and also push customers to adopt these solutions. Even in situations where the customers were aware enough of consumer needs and wanted to improve packaging, they don’t know where to procure quality packaging that’s affordable even in smaller quantities. 
 
-One of the ways that these companies are trying to solve this challenge is by setting up their own store to curate and sell quality delivery packaging in smaller quantities and reasonable prices. Steps like this are still an experiment but are changing the very ecosystem that we’ve been studying, and you can find out more about this in Key Insights & Core Packaging Concepts.
+One of the ways that these companies are trying to solve this challenge is by setting up their own store to curate and sell quality delivery packaging in smaller quantities and reasonable prices. Steps like this are still an experiment but are changing the very ecosystem that we’ve been studying, and you can find out more about this in [Key Insights section](../../findings/key-insights/).
 
 ![](../../assets/pictures/findings/Foodora-Store.png)
 

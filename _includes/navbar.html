@@ -30,8 +30,10 @@ data-spy="affix" data-offset-top="197"
             {% if item.children %}
               <div class="dropdown-menu" aria-labelledby="menu-{{ item.identifier }}">
               {% assign submenu = item.children | sort: 'position'  %}
-              <a class="dropdown-item" href="{{ page_href }}">Overall about {{ page_title }}</a>
-              <div class="dropdown-divider"></div>
+              {% if page_title != 'Concepts' %}
+                <a class="dropdown-item" href="{{ page_href }}">Overall about {{ page_title }}</a>
+                <div class="dropdown-divider"></div>
+              {% endif %}
               {% for item in submenu %}
                 {% assign page_href = item.url | prepend: site.baseurl %}
                 <a class="dropdown-item" href="{{ page_href }}">{{ item.title }}</a>
