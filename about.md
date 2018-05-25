@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-long_title: About this project
+long_title: About This Project
 permalink: /about/
 body_class: about-page
 
